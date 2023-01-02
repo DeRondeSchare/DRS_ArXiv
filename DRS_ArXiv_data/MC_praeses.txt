@@ -1,0 +1,10 @@
+Academiejaar	Kring	Praeses
+1961-1962	HILO	John Van Hassel
+1962-1963	HILO	John Van Hassel
+1963-1964	HILO	John Van Hassel
+1964-1965	HILO	John Van Hassel
+1965-1966	HILO	Jef Christiaans
+1966-1967	HILO	Jef Christiaans
+1967-1968	HILO	Marc Jacobs
+1968-1969	HILO	Jan-Pieter Clarijs
+1969-1970	HILO	William Duquet
