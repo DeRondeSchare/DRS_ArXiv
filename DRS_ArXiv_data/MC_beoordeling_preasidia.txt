@@ -1,0 +1,848 @@
+jaar_senior	beoordeling	voornaam	achternaam
+1990-1991 (S. Willems)	1	Stephan	Willems
+1990-1991 (S. Willems)	1	Philip	Van Der Veen
+1990-1991 (S. Willems)	1	Steven	De Backer
+1990-1991 (S. Willems)	1	Ann	Boon
+1990-1991 (S. Willems)	1	Wim	Devos
+1990-1991 (S. Willems)	1	Walter	Lofgren
+1990-1991 (S. Willems)	1	Dirk	Boets
+1990-1991 (S. Willems)	1	Tom	Steverlynck
+1991-1992 (P. Van Der Veen)	1	Stephan	Willems
+1991-1992 (P. Van Der Veen)	1	Philip	Van Der Veen
+1991-1992 (P. Van Der Veen)	1	Steven	De Backer
+1991-1992 (P. Van Der Veen)	0	Wim	Devos
+1991-1992 (P. Van Der Veen)	1	Tom	Steverlynck
+1991-1992 (P. Van Der Veen)	1	Chris	Van Handenhoven
+1991-1992 (P. Van Der Veen)	0	Frank	Dupontière
+1991-1992 (P. Van Der Veen)	0	Gert	Vander Slagmolen
+1991-1992 (P. Van Der Veen)	0	Tom	Wamback
+1991-1992 (P. Van Der Veen)	0	Cisse	Loyens
+1991-1992 (P. Van Der Veen)	0	Joeri	Schoffelen
+1992-1993 (T. Steverlynck)	1	Stephan	Willems
+1992-1993 (T. Steverlynck)	0	Philip	Van Der Veen
+1992-1993 (T. Steverlynck)	1	Steven	De Backer
+1992-1993 (T. Steverlynck)	1	Wim	Devos
+1992-1993 (T. Steverlynck)	1	Tom	Steverlynck
+1992-1993 (T. Steverlynck)	1	Chris	Van Handenhoven
+1992-1993 (T. Steverlynck)	1	Cisse	Loyens
+1992-1993 (T. Steverlynck)	0	Joeri	Schoffelen
+1992-1993 (T. Steverlynck)	1	Bart	Desmet
+1992-1993 (T. Steverlynck)	1	Johan	Scheirs
+1992-1993 (T. Steverlynck)	1	Dieter	Theylaert
+1992-1993 (T. Steverlynck)	0	Jochen	Moors
+1992-1993 (T. Steverlynck)	0	Sebastien	Godefroid
+1993-1994 (D. Theylaert)	1	Steven	De Backer
+1993-1994 (D. Theylaert)	0	Chris	Van Handenhoven
+1993-1994 (D. Theylaert)	1	Cisse	Loyens
+1993-1994 (D. Theylaert)	0	Bart	Desmet
+1993-1994 (D. Theylaert)	1	Johan	Scheirs
+1993-1994 (D. Theylaert)	1	Dieter	Theylaert
+1993-1994 (D. Theylaert)	1	Jochen	Moors
+1993-1994 (D. Theylaert)	0	Anja	De Dekker
+1993-1994 (D. Theylaert)	1	Farid	Kempenaers
+1993-1994 (D. Theylaert)	1	Ellen	Leys
+1993-1994 (D. Theylaert)	0	Jo	De Ceulaer
+1993-1994 (D. Theylaert)	1	Xavier	Cloetens
+1993-1994 (D. Theylaert)	1	Michèlle	Loos
+1993-1994 (D. Theylaert)	1	Yves	De Rop
+1994-1995 (X. Cloetens)	1	Steven	De Backer
+1994-1995 (X. Cloetens)	0	Cisse	Loyens
+1994-1995 (X. Cloetens)	0	Dieter	Theylaert
+1994-1995 (X. Cloetens)	0	Jochen	Moors
+1994-1995 (X. Cloetens)	1	Anja	De Dekker
+1994-1995 (X. Cloetens)	1	Farid	Kempenaers
+1994-1995 (X. Cloetens)	1	Ellen	Leys
+1994-1995 (X. Cloetens)	1	Jo	De Ceulaer
+1994-1995 (X. Cloetens)	1	Xavier	Cloetens
+1994-1995 (X. Cloetens)	0	Michèlle	Loos
+1994-1995 (X. Cloetens)	0	Yves	De Rop
+1994-1995 (X. Cloetens)	0	Hans	Matheus
+1994-1995 (X. Cloetens)	1	Wim	Leerman
+1994-1995 (X. Cloetens)	1	Inge	Gahy
+1994-1995 (X. Cloetens)	0	Erwin	Bouillon
+1994-1995 (X. Cloetens)	1	Joeri	Gijsels
+1994-1995 (X. Cloetens)	0	Koen	De Leeuw
+1994-1995 (X. Cloetens)	0	Sandra	Casteels
+1994-1995 (X. Cloetens)	0	Wim	Van Hecke
+1994-1995 (X. Cloetens)	0	Jonathan	Roeland
+1995-1996 (C. Van Handenhoven)	1	Chris	Van Handenhoven
+1995-1996 (C. Van Handenhoven)	0	Dieter	Theylaert
+1995-1996 (C. Van Handenhoven)	0	Farid	Kempenaers
+1995-1996 (C. Van Handenhoven)	1	Ellen	Leys
+1995-1996 (C. Van Handenhoven)	1	Michèlle	Loos
+1995-1996 (C. Van Handenhoven)	1	Wim	Leerman
+1995-1996 (C. Van Handenhoven)	1	Inge	Gahy
+1995-1996 (C. Van Handenhoven)	1	Joeri	Gijsels
+1995-1996 (C. Van Handenhoven)	1	Anouk	Leys
+1995-1996 (C. Van Handenhoven)	1	Brecht	Van Kerckhove
+1995-1996 (C. Van Handenhoven)	0	Tinneke	Van Kerckhove
+1995-1996 (C. Van Handenhoven)	1	Joeri	Vannijvel
+1995-1996 (C. Van Handenhoven)	1	Gert	Mortelmans
+1995-1996 (C. Van Handenhoven)	0	Karl	Van Malderen
+1995-1996 (C. Van Handenhoven)	0	Tom	Sillen
+1995-1996 (C. Van Handenhoven)	0	Joshua	Verheyen
+1995-1996 (C. Van Handenhoven)	1	Wim	Vandewalle
+1996-1997 (W. Leerman)	0	Dieter	Theylaert
+1996-1997 (W. Leerman)	1	Farid	Kempenaers
+1996-1997 (W. Leerman)	1	Yves	De Rop
+1996-1997 (W. Leerman)	1	Wim	Leerman
+1996-1997 (W. Leerman)	1	Joeri	Gijsels
+1996-1997 (W. Leerman)	0	Brecht	Van Kerckhove
+1996-1997 (W. Leerman)	1	Joeri	Vannijvel
+1996-1997 (W. Leerman)	1	Gert	Mortelmans
+1996-1997 (W. Leerman)	1	Tom	Sillen
+1996-1997 (W. Leerman)	0	Joshua	Verheyen
+1996-1997 (W. Leerman)	0	Joris	Van Peer
+1996-1997 (W. Leerman)	1	Jo	Nijs
+1996-1997 (W. Leerman)	1	Steven	Demeyst
+1996-1997 (W. Leerman)	1	Kevin	Taylor
+1996-1997 (W. Leerman)	0	Jari	Wastyn
+1996-1997 (W. Leerman)	0	Yannick	Tobbackx
+1996-1997 (W. Leerman)	1	Gert	Eeraerts
+1996-1997 (W. Leerman)	0	Nick	Defoort
+1996-1997 (W. Leerman)	0	Sofie	Rousseeuw
+1997-1998 (J. Gijsels)	0	Dieter	Theylaert
+1997-1998 (J. Gijsels)	0	Yves	De Rop
+1997-1998 (J. Gijsels)	1	Wim	Leerman
+1997-1998 (J. Gijsels)	1	Joeri	Gijsels
+1997-1998 (J. Gijsels)	1	Joeri	Vannijvel
+1997-1998 (J. Gijsels)	1	Gert	Mortelmans
+1997-1998 (J. Gijsels)	1	Tom	Sillen
+1997-1998 (J. Gijsels)	1	Joshua	Verheyen
+1997-1998 (J. Gijsels)	0	Joris	Van Peer
+1997-1998 (J. Gijsels)	1	Jo	Nijs
+1997-1998 (J. Gijsels)	1	Kevin	Taylor
+1997-1998 (J. Gijsels)	1	Gert	Eeraerts
+1997-1998 (J. Gijsels)	0	Nick	Defoort
+1997-1998 (J. Gijsels)	1	Sofie	Rousseeuw
+1997-1998 (J. Gijsels)	0	Wim	Vandewalle
+1997-1998 (J. Gijsels)	0	Kathy	Van den Bergen
+1997-1998 (J. Gijsels)	0	Kristien	Beckers
+1997-1998 (J. Gijsels)	0	Tom	Van Gyseghem
+1997-1998 (J. Gijsels)	0	Dries	Vetters
+1997-1998 (J. Gijsels)	0	Gilly	Caeyenberghs
+1997-1998 (J. Gijsels)	0	Stijn	Morand
+1997-1998 (J. Gijsels)	0	Karl	Mies
+1997-1998 (J. Gijsels)	0	Koen	Verheyen
+1997-1998 (J. Gijsels)	1	Olivier	Vande Wiele
+1997-1998 (J. Gijsels)	0	Heike	Beckers
+1997-1998 (J. Gijsels)	0	Ronald	Buyl
+1997-1998 (J. Gijsels)	0	Helena	Van der Eecken
+1997-1998 (J. Gijsels)	0	Filip	De Ceulaer
+1997-1998 (J. Gijsels)	0	Lieven	Van Peer
+1997-1998 (J. Gijsels)	0	Nick	Roets
+1997-1998 (J. Gijsels)	1	Els	Denorme
+1998-1999 (J. Verheyen)	0	Dieter	Theylaert
+1998-1999 (J. Verheyen)	1	Wim	Leerman
+1998-1999 (J. Verheyen)	1	Joeri	Gijsels
+1998-1999 (J. Verheyen)	1	Gert	Mortelmans
+1998-1999 (J. Verheyen)	1	Joshua	Verheyen
+1998-1999 (J. Verheyen)	0	Kevin	Taylor
+1998-1999 (J. Verheyen)	1	Gert	Eeraerts
+1998-1999 (J. Verheyen)	1	Sofie	Rousseeuw
+1998-1999 (J. Verheyen)	0	Tom	Van Gyseghem
+1998-1999 (J. Verheyen)	1	Gilly	Caeyenberghs
+1998-1999 (J. Verheyen)	0	Stijn	Morand
+1998-1999 (J. Verheyen)	1	Karl	Mies
+1998-1999 (J. Verheyen)	0	Koen	Verheyen
+1998-1999 (J. Verheyen)	0	Olivier	Vande Wiele
+1998-1999 (J. Verheyen)	0	Heike	Beckers
+1998-1999 (J. Verheyen)	0	Ronald	Buyl
+1998-1999 (J. Verheyen)	0	Lieven	Van Peer
+1998-1999 (J. Verheyen)	0	Els	Denorme
+1998-1999 (J. Verheyen)	0	Bram	Mol
+1998-1999 (J. Verheyen)	0	Lien	Ivens
+1998-1999 (J. Verheyen)	1	Sven	Germeys
+1998-1999 (J. Verheyen)	0	Esther	Michiels
+1998-1999 (J. Verheyen)	0	Manu	Simons
+1998-1999 (J. Verheyen)	0	Serge	Prinsen
+1999-2000 (G. Mortelmans)	1	Xavier	Cloetens
+1999-2000 (G. Mortelmans)	1	Wim	Leerman
+1999-2000 (G. Mortelmans)	1	Joeri	Gijsels
+1999-2000 (G. Mortelmans)	1	Gert	Mortelmans
+1999-2000 (G. Mortelmans)	1	Joshua	Verheyen
+1999-2000 (G. Mortelmans)	1	Kevin	Taylor
+1999-2000 (G. Mortelmans)	0	Gert	Eeraerts
+1999-2000 (G. Mortelmans)	1	Sofie	Rousseeuw
+1999-2000 (G. Mortelmans)	1	Tom	Van Gyseghem
+1999-2000 (G. Mortelmans)	0	Olivier	Vande Wiele
+1999-2000 (G. Mortelmans)	1	Heike	Beckers
+1999-2000 (G. Mortelmans)	0	Ronald	Buyl
+1999-2000 (G. Mortelmans)	1	Els	Denorme
+1999-2000 (G. Mortelmans)	1	Sven	Germeys
+1999-2000 (G. Mortelmans)	0	Esther	Michiels
+1999-2000 (G. Mortelmans)	0	Kevin	Goovaerts
+1999-2000 (G. Mortelmans)	0	Geert	Bruynseels
+1999-2000 (G. Mortelmans)	0	Micha	Vanlessen
+1999-2000 (G. Mortelmans)	1	Fien	Verheyleweghen
+1999-2000 (G. Mortelmans)	1	Elke	Van Grimbergen
+1999-2000 (G. Mortelmans)	0	Barbara	Enckels
+1999-2000 (G. Mortelmans)	0	Barbara	Lecluyse
+2000-2001 (T. Van Gyseghem)	1	Wim	Leerman
+2000-2001 (T. Van Gyseghem)	1	Joeri	Gijsels
+2000-2001 (T. Van Gyseghem)	1	Gert	Mortelmans
+2000-2001 (T. Van Gyseghem)	1	Gert	Eeraerts
+2000-2001 (T. Van Gyseghem)	1	Sofie	Rousseeuw
+2000-2001 (T. Van Gyseghem)	1	Tom	Van Gyseghem
+2000-2001 (T. Van Gyseghem)	0	Heike	Beckers
+2000-2001 (T. Van Gyseghem)	0	Els	Denorme
+2000-2001 (T. Van Gyseghem)	0	Sven	Germeys
+2000-2001 (T. Van Gyseghem)	0	Esther	Michiels
+2000-2001 (T. Van Gyseghem)	1	Kevin	Goovaerts
+2000-2001 (T. Van Gyseghem)	0	Geert	Bruynseels
+2000-2001 (T. Van Gyseghem)	0	Fien	Verheyleweghen
+2000-2001 (T. Van Gyseghem)	1	Elke	Van Grimbergen
+2000-2001 (T. Van Gyseghem)	1	Barbara	Enckels
+2000-2001 (T. Van Gyseghem)	1	Karen	Van Cauteren
+2000-2001 (T. Van Gyseghem)	1	Mariska	De Sutter
+2000-2001 (T. Van Gyseghem)	0	Jelle	Maddelein
+2000-2001 (T. Van Gyseghem)	0	An	Van Acker
+2001-2002 (H. Beckers)	1	Wim	Leerman
+2001-2002 (H. Beckers)	1	Joeri	Gijsels
+2001-2002 (H. Beckers)	1	Gert	Mortelmans
+2001-2002 (H. Beckers)	1	Gert	Eeraerts
+2001-2002 (H. Beckers)	1	Tom	Van Gyseghem
+2001-2002 (H. Beckers)	1	Heike	Beckers
+2001-2002 (H. Beckers)	1	Els	Denorme
+2001-2002 (H. Beckers)	1	Sven	Germeys
+2001-2002 (H. Beckers)	1	Kevin	Goovaerts
+2001-2002 (H. Beckers)	1	Elke	Van Grimbergen
+2001-2002 (H. Beckers)	1	Barbara	Enckels
+2001-2002 (H. Beckers)	1	Karen	Van Cauteren
+2001-2002 (H. Beckers)	1	Mariska	De Sutter
+2001-2002 (H. Beckers)	1	Wouter	Dauwe
+2001-2002 (H. Beckers)	1	Eva	Swinnen
+2001-2002 (H. Beckers)	1	Alice	Thielemans
+2001-2002 (H. Beckers)	1	Kim	Verbeeck
+2001-2002 (H. Beckers)	1	William	Meerbergen
+2001-2002 (H. Beckers)	1	Ward	Vetters
+2001-2002 (H. Beckers)	1	Marjan	Van Ginniken
+2001-2002 (H. Beckers)	1	Julie	Van Severen
+2001-2002 (H. Beckers)	1	Jan	Bossu
+2001-2002 (H. Beckers)	1	Sylvie	De Coster
+2001-2002 (H. Beckers)	1	Katrien	De Munter
+2002-2003 (K. De Munter)	0	Wim	Leerman
+2002-2003 (K. De Munter)	0	Joeri	Gijsels
+2002-2003 (K. De Munter)	0	Sofie	Rousseeuw
+2002-2003 (K. De Munter)	0	Tom	Van Gyseghem
+2002-2003 (K. De Munter)	0	Heike	Beckers
+2002-2003 (K. De Munter)	1	Karen	Van Cauteren
+2002-2003 (K. De Munter)	1	Wouter	Dauwe
+2002-2003 (K. De Munter)	1	Eva	Swinnen
+2002-2003 (K. De Munter)	1	Alice	Thielemans
+2002-2003 (K. De Munter)	1	Julie	Van Severen
+2002-2003 (K. De Munter)	1	Katrien	De Munter
+2002-2003 (K. De Munter)	1	Dirk	Aerenhouts
+2002-2003 (K. De Munter)	1	Wim	Maes
+2002-2003 (K. De Munter)	0	Yves	Cools
+2002-2003 (K. De Munter)	0	Lieven	Dubois
+2002-2003 (K. De Munter)	0	Thomas	Vermeiren
+2002-2003 (K. De Munter)	1	Nicka	Mahieu
+2002-2003 (K. De Munter)	0	Trui	De Boitselier
+2002-2003 (K. De Munter)	1	Julie	Bivacco
+2003-2004 (W. Dauwe)	0	Gert	Eeraerts
+2003-2004 (W. Dauwe)	1	Wouter	Dauwe
+2003-2004 (W. Dauwe)	1	Eva	Swinnen
+2003-2004 (W. Dauwe)	1	Julie	Van Severen
+2003-2004 (W. Dauwe)	1	Dirk	Aerenhouts
+2003-2004 (W. Dauwe)	1	Yves	Cools
+2003-2004 (W. Dauwe)	0	Lieven	Dubois
+2003-2004 (W. Dauwe)	1	Nicka	Mahieu
+2003-2004 (W. Dauwe)	1	Julie	Bivacco
+2003-2004 (W. Dauwe)	0	Perinne	Coolsaet
+2003-2004 (W. Dauwe)	1	Yannick	Van Den Bleeken
+2003-2004 (W. Dauwe)	1	Emmanuel	Verbeke
+2003-2004 (W. Dauwe)	1	Jordi	Buyse
+2003-2004 (W. Dauwe)	1	Lina	Checci
+2003-2004 (W. Dauwe)	0	Bert	D'Hanis
+2004-2005 (Y. Cools)	0	Wouter	Dauwe
+2004-2005 (Y. Cools)	1	Julie	Van Severen
+2004-2005 (Y. Cools)	1	Yves	Cools
+2004-2005 (Y. Cools)	0	Lieven	Dubois
+2004-2005 (Y. Cools)	1	Nicka	Mahieu
+2004-2005 (Y. Cools)	1	Yannick	Van Den Bleeken
+2004-2005 (Y. Cools)	1	Emmanuel	Verbeke
+2004-2005 (Y. Cools)	1	Jordi	Buyse
+2004-2005 (Y. Cools)	0	Lina	Checci
+2004-2005 (Y. Cools)	0	Pol	Op De Beeck
+2004-2005 (Y. Cools)	0	Jan	Van Roy
+2004-2005 (Y. Cools)	0	Erik	Van Harck
+2004-2005 (Y. Cools)	0	Pieter	Ghyselen
+2004-2005 (Y. Cools)	0	Michel	Van Laere
+2004-2005 (Y. Cools)	0	Robby	Toth
+2005-2006 (E. Verbeke)	1	Wouter	Dauwe
+2005-2006 (E. Verbeke)	1	Yannick	Van Den Bleeken
+2005-2006 (E. Verbeke)	1	Emmanuel	Verbeke
+2005-2006 (E. Verbeke)	1	Jordi	Buyse
+2005-2006 (E. Verbeke)	1	Jan	Van Roy
+2005-2006 (E. Verbeke)	1	Erik	Van Harck
+2005-2006 (E. Verbeke)	0	Pieter	Ghyselen
+2005-2006 (E. Verbeke)	1	Philip	Vermeylen
+2005-2006 (E. Verbeke)	1	Arno	Van Den Abbeel
+2005-2006 (E. Verbeke)	1	Britt	Van Dijck
+2005-2006 (E. Verbeke)	1	Lies	Van Cauwenbergh
+2005-2006 (E. Verbeke)	0	Luc	Gooris
+2005-2006 (E. Verbeke)	0	Nele	Adriaenssens
+2005-2006 (E. Verbeke)	0	Wim	Gallet
+2005-2006 (E. Verbeke)	1	Nick	Bourdeaud'huy
+2005-2006 (E. Verbeke)	0	Rob	Laenen
+2006-2007 (J. Buyse)	1	Yannick	Van Den Bleeken
+2006-2007 (J. Buyse)	0	Emmanuel	Verbeke
+2006-2007 (J. Buyse)	1	Jordi	Buyse
+2006-2007 (J. Buyse)	0	Jan	Van Roy
+2006-2007 (J. Buyse)	0	Erik	Van Harck
+2006-2007 (J. Buyse)	0	Pieter	Ghyselen
+2006-2007 (J. Buyse)	1	Philip	Vermeylen
+2006-2007 (J. Buyse)	1	Britt	Van Dijck
+2006-2007 (J. Buyse)	1	Lies	Van Cauwenbergh
+2006-2007 (J. Buyse)	0	Nele	Adriaenssens
+2006-2007 (J. Buyse)	0	Wim	Gallet
+2006-2007 (J. Buyse)	1	Nick	Bourdeaud'huy
+2006-2007 (J. Buyse)	1	Rob	Laenen
+2006-2007 (J. Buyse)	0	Tuur	Roels
+2006-2007 (J. Buyse)	0	Alex	Lefils
+2006-2007 (J. Buyse)	1	Kobe	Janssens
+2006-2007 (J. Buyse)	0	Maarten	Verpoest
+2006-2007 (J. Buyse)	0	Geert	Jacobs
+2006-2007 (J. Buyse)	1	Nicolas	Manigart
+2006-2007 (J. Buyse)	1	Bieke	Hermans
+2006-2007 (J. Buyse)	1	Bart	Geelen
+2006-2007 (J. Buyse)	0	Samuel	Serck
+2006-2007 (J. Buyse)	1	Dieter	Daamen
+2006-2007 (J. Buyse)	0	Jimmy	Van Dam
+2006-2007 (J. Buyse)	0	Jesse	Van Deuren
+2006-2007 (J. Buyse)	0	Chloe	De Bruyn
+2006-2007 (J. Buyse)	0	Jessie	Brouwers
+2007-2008 (P. Vermeylen)	1	Jordi	Buyse
+2007-2008 (P. Vermeylen)	0	Jan	Van Roy
+2007-2008 (P. Vermeylen)	1	Philip	Vermeylen
+2007-2008 (P. Vermeylen)	0	Arno	Van Den Abbeel
+2007-2008 (P. Vermeylen)	0	Britt	Van Dijck
+2007-2008 (P. Vermeylen)	0	Lies	Van Cauwenbergh
+2007-2008 (P. Vermeylen)	1	Nele	Adriaenssens
+2007-2008 (P. Vermeylen)	0	Wim	Gallet
+2007-2008 (P. Vermeylen)	0	Rob	Laenen
+2007-2008 (P. Vermeylen)	0	Tuur	Roels
+2007-2008 (P. Vermeylen)	1	Maarten	Verpoest
+2007-2008 (P. Vermeylen)	0	Geert	Jacobs
+2007-2008 (P. Vermeylen)	0	Bieke	Hermans
+2007-2008 (P. Vermeylen)	1	Bart	Geelen
+2007-2008 (P. Vermeylen)	1	Samuel	Serck
+2007-2008 (P. Vermeylen)	0	Dieter	Daamen
+2007-2008 (P. Vermeylen)	0	Jimmy	Van Dam
+2007-2008 (P. Vermeylen)	1	Eva	Von Rauch
+2007-2008 (P. Vermeylen)	0	Tinne	Boey
+2007-2008 (P. Vermeylen)	0	Hanne	t Lam
+2007-2008 (P. Vermeylen)	0	Fanny	Wagemans
+2007-2008 (P. Vermeylen)	0	Michèlle	Beutels
+2007-2008 (P. Vermeylen)	0	Frank	Laenen
+2007-2008 (P. Vermeylen)	0	Pieter-Jan	Baert
+2007-2008 (P. Vermeylen)	0	Marie-Laure	Dheygere
+2008-2009 (B. Geelen)	0	Nele	Adriaenssens
+2008-2009 (B. Geelen)	1	Rob	Laenen
+2008-2009 (B. Geelen)	1	Maarten	Verpoest
+2008-2009 (B. Geelen)	1	Bieke	Hermans
+2008-2009 (B. Geelen)	1	Bart	Geelen
+2008-2009 (B. Geelen)	1	Jimmy	Van Dam
+2008-2009 (B. Geelen)	1	Tinne	Boey
+2008-2009 (B. Geelen)	0	Hanne	t Lam
+2008-2009 (B. Geelen)	0	Michèlle	Beutels
+2008-2009 (B. Geelen)	1	Frank	Laenen
+2008-2009 (B. Geelen)	0	Pieter-Jan	Baert
+2008-2009 (B. Geelen)	0	Marie-Laure	Dheygere
+2008-2009 (B. Geelen)	1	Lynn	Deschutter
+2008-2009 (B. Geelen)	1	Steven	De Meijer
+2008-2009 (B. Geelen)	1	Nicolas	Van Vlasselaer
+2008-2009 (B. Geelen)	1	Mattias	Van der Linden
+2008-2009 (B. Geelen)	0	Kaat	Van De Velde
+2008-2009 (B. Geelen)	0	Nathalie	Duquesne
+2008-2009 (B. Geelen)	1	Nick	Wouters
+2008-2009 (B. Geelen)	1	Tom	Van Iseghem
+2008-2009 (B. Geelen)	1	Bram	Van Elsen
+2008-2009 (B. Geelen)	0	Sandrine	Nobels
+2008-2009 (B. Geelen)	0	Evelien	Ots
+2008-2009 (B. Geelen)	0	Chloë	Goethals
+2008-2009 (B. Geelen)	0	Maarten	Van Heuvel
+2008-2009 (B. Geelen)	0	Luk	Helsen
+2009-2010 (M. Verpoest)	1	Rob	Laenen
+2009-2010 (M. Verpoest)	1	Maarten	Verpoest
+2009-2010 (M. Verpoest)	1	Bieke	Hermans
+2009-2010 (M. Verpoest)	1	Bart	Geelen
+2009-2010 (M. Verpoest)	1	Tinne	Boey
+2009-2010 (M. Verpoest)	1	Hanne	t Lam
+2009-2010 (M. Verpoest)	0	Michèlle	Beutels
+2009-2010 (M. Verpoest)	1	Marie-Laure	Dheygere
+2009-2010 (M. Verpoest)	0	Lynn	Deschutter
+2009-2010 (M. Verpoest)	1	Steven	De Meijer
+2009-2010 (M. Verpoest)	1	Nicolas	Van Vlasselaer
+2009-2010 (M. Verpoest)	1	Mattias	Van der Linden
+2009-2010 (M. Verpoest)	1	Nick	Wouters
+2009-2010 (M. Verpoest)	1	Tom	Van Iseghem
+2009-2010 (M. Verpoest)	1	Bram	Van Elsen
+2009-2010 (M. Verpoest)	1	Ben	Serrien
+2009-2010 (M. Verpoest)	1	Xanne	Vermeir
+2009-2010 (M. Verpoest)	0	Nele	Van Rossem
+2009-2010 (M. Verpoest)	0	Marie	Tondeur
+2009-2010 (M. Verpoest)	1	Jeroen	Desmet
+2009-2010 (M. Verpoest)	0	Fauve	Simoens
+2009-2010 (M. Verpoest)	0	Laura	Bronckaerts
+2009-2010 (M. Verpoest)	1	Barbara	De Smedt
+2010-2011 (N. Van Vlasselaer)	0	Rob	Laenen
+2010-2011 (N. Van Vlasselaer)	1	Maarten	Verpoest
+2010-2011 (N. Van Vlasselaer)	1	Bart	Geelen
+2010-2011 (N. Van Vlasselaer)	1	Jimmy	Van Dam
+2010-2011 (N. Van Vlasselaer)	0	Tinne	Boey
+2010-2011 (N. Van Vlasselaer)	0	Hanne	t Lam
+2010-2011 (N. Van Vlasselaer)	0	Michèlle	Beutels
+2010-2011 (N. Van Vlasselaer)	1	Pieter-Jan	Baert
+2010-2011 (N. Van Vlasselaer)	1	Marie-Laure	Dheygere
+2010-2011 (N. Van Vlasselaer)	1	Lynn	Deschutter
+2010-2011 (N. Van Vlasselaer)	1	Steven	De Meijer
+2010-2011 (N. Van Vlasselaer)	1	Nicolas	Van Vlasselaer
+2010-2011 (N. Van Vlasselaer)	1	Mattias	Van der Linden
+2010-2011 (N. Van Vlasselaer)	1	Nick	Wouters
+2010-2011 (N. Van Vlasselaer)	1	Tom	Van Iseghem
+2010-2011 (N. Van Vlasselaer)	1	Bram	Van Elsen
+2010-2011 (N. Van Vlasselaer)	1	Ben	Serrien
+2010-2011 (N. Van Vlasselaer)	1	Xanne	Vermeir
+2010-2011 (N. Van Vlasselaer)	1	Barbara	De Smedt
+2010-2011 (N. Van Vlasselaer)	0	Bilitis	Crockaert
+2010-2011 (N. Van Vlasselaer)	1	Nick	Libotton
+2010-2011 (N. Van Vlasselaer)	0	Sarah	Ghysels
+2010-2011 (N. Van Vlasselaer)	0	Eliot	Tybebo
+2010-2011 (N. Van Vlasselaer)	0	Frederik	Laenen
+2010-2011 (N. Van Vlasselaer)	1	Lore	Aerts
+2010-2011 (N. Van Vlasselaer)	0	Deborah	Feiner
+2010-2011 (N. Van Vlasselaer)	1	Karl	Van Der Auwera
+2010-2011 (N. Van Vlasselaer)	1	Free	Pickée
+2010-2011 (N. Van Vlasselaer)	0	Lauren	Trehout
+2010-2011 (N. Van Vlasselaer)	1	Andreas	De Nutte
+2010-2011 (N. Van Vlasselaer)	0	Lise	De Wael
+2010-2011 (N. Van Vlasselaer)	1	Céline	Vankeerbergen
+2011-2012 (B. Van Elsen)	1	Rob	Laenen
+2011-2012 (B. Van Elsen)	1	Lynn	Deschutter
+2011-2012 (B. Van Elsen)	1	Steven	De Meijer
+2011-2012 (B. Van Elsen)	1	Nicolas	Van Vlasselaer
+2011-2012 (B. Van Elsen)	1	Mattias	Van der Linden
+2011-2012 (B. Van Elsen)	1	Nick	Wouters
+2011-2012 (B. Van Elsen)	1	Tom	Van Iseghem
+2011-2012 (B. Van Elsen)	1	Bram	Van Elsen
+2011-2012 (B. Van Elsen)	1	Ben	Serrien
+2011-2012 (B. Van Elsen)	0	Xanne	Vermeir
+2011-2012 (B. Van Elsen)	1	Bilitis	Crockaert
+2011-2012 (B. Van Elsen)	1	Sarah	Ghysels
+2011-2012 (B. Van Elsen)	0	Lore	Aerts
+2011-2012 (B. Van Elsen)	1	Karl	Van Der Auwera
+2011-2012 (B. Van Elsen)	1	Andreas	De Nutte
+2011-2012 (B. Van Elsen)	1	Joren	Brockmans
+2011-2012 (B. Van Elsen)	1	Julie	Rodriguez-Gonzalez
+2011-2012 (B. Van Elsen)	1	Louis	Curtil
+2011-2012 (B. Van Elsen)	1	Jonathan	Hooft
+2011-2012 (B. Van Elsen)	1	Rens	Poesen
+2011-2012 (B. Van Elsen)	1	Bernd	Van Isterdael
+2011-2012 (B. Van Elsen)	1	Marloes	De Moet
+2011-2012 (B. Van Elsen)	1	Tatjana	Stans
+2011-2012 (B. Van Elsen)	0	Tess	Van Oers
+2011-2012 (B. Van Elsen)	0	Yannick	Prevost
+2011-2012 (B. Van Elsen)	0	Lyn	Bruyndonckx
+2011-2012 (B. Van Elsen)	1	Alexander	Peirs
+2012-2013 (J. Hooft)	0	Nicolas	Van Vlasselaer
+2012-2013 (J. Hooft)	1	Bram	Van Elsen
+2012-2013 (J. Hooft)	1	Ben	Serrien
+2012-2013 (J. Hooft)	1	Bilitis	Crockaert
+2012-2013 (J. Hooft)	1	Sarah	Ghysels
+2012-2013 (J. Hooft)	1	Andreas	De Nutte
+2012-2013 (J. Hooft)	0	Joren	Brockmans
+2012-2013 (J. Hooft)	1	Julie	Rodriguez-Gonzalez
+2012-2013 (J. Hooft)	1	Louis	Curtil
+2012-2013 (J. Hooft)	1	Jonathan	Hooft
+2012-2013 (J. Hooft)	0	Rens	Poesen
+2012-2013 (J. Hooft)	0	Berns	Van Isterdael
+2012-2013 (J. Hooft)	0	Tatjana	Stans
+2012-2013 (J. Hooft)	0	Alexander	Peirs
+2012-2013 (J. Hooft)	0	Arian	Olieslagers
+2012-2013 (J. Hooft)	0	Gertjan	Pauwels
+2012-2013 (J. Hooft)	0	Stef	Verstappen
+2012-2013 (J. Hooft)	1	Anne-Sophie	Donckier
+2012-2013 (J. Hooft)	0	Jeroen	Ooijen
+2012-2013 (J. Hooft)	1	Sara	De Ridder
+2012-2013 (J. Hooft)	0	Lise	Jacobs
+2012-2013 (J. Hooft)	0	Layla	Lemaire
+2012-2013 (J. Hooft)	0	Wouter	Verhoest
+2012-2013 (J. Hooft)	1	Joyce	De Gelas
+2012-2013 (J. Hooft)	0	Stephanie	Maigret
+2012-2013 (J. Hooft)	0	Elodie	Baele
+2012-2013 (J. Hooft)	0	Michiel	Cassiman
+2012-2013 (J. Hooft)	0	Mirte	Poesen
+2013-2014 (R. Poesen)	1	Ben	Serrien
+2013-2014 (R. Poesen)	0	Bilitis	Crockaert
+2013-2014 (R. Poesen)	0	Sarah	Ghysels
+2013-2014 (R. Poesen)	0	Karl	Van Der Auwera
+2013-2014 (R. Poesen)	0	Andreas	De Nutte
+2013-2014 (R. Poesen)	1	Joren	Brockmans
+2013-2014 (R. Poesen)	0	Julie	Rodriguez-Gonzalez
+2013-2014 (R. Poesen)	1	Louis	Curtil
+2013-2014 (R. Poesen)	0	Jonathan	Hooft
+2013-2014 (R. Poesen)	1	Rens	Poesen
+2013-2014 (R. Poesen)	1	Tatjana	Stans
+2013-2014 (R. Poesen)	0	Alexander	Peirs
+2013-2014 (R. Poesen)	0	Stef	Verstappen
+2013-2014 (R. Poesen)	0	Jeroen	Ooijen
+2013-2014 (R. Poesen)	1	Sara	De Ridder
+2013-2014 (R. Poesen)	0	Lise	Jacobs
+2013-2014 (R. Poesen)	0	Layla	Lemaire
+2013-2014 (R. Poesen)	0	Wouter	Verhoest
+2013-2014 (R. Poesen)	1	Joyce	De Gelas
+2013-2014 (R. Poesen)	0	Stephanie	Maigret
+2013-2014 (R. Poesen)	0	Elodie	Baele
+2013-2014 (R. Poesen)	0	Michiel	Cassiman
+2013-2014 (R. Poesen)	0	Mirte	Poesen
+2013-2014 (R. Poesen)	1	Glenn	Van Der Velde
+2013-2014 (R. Poesen)	0	Julie	Schuermans
+2013-2014 (R. Poesen)	0	Sara	Evenepoel
+2013-2014 (R. Poesen)	0	Manon	Van Laethem
+2013-2014 (R. Poesen)	1	Caro	Vanderborght
+2013-2014 (R. Poesen)	1	Arno	Decuyper
+2013-2014 (R. Poesen)	0	Tomas	Van Eecke
+2013-2014 (R. Poesen)	1	Jeroen	Jorssen
+2013-2014 (R. Poesen)	1	Marco	In 't Zandt
+2013-2014 (R. Poesen)	1	Arnaud	Jacquet
+2013-2014 (R. Poesen)	1	Jannis	Van Doorn
+2013-2014 (R. Poesen)	0	Jari	Debruyn
+2013-2014 (R. Poesen)	0	Melissa	Evenepoel
+2013-2014 (R. Poesen)	0	Matthias	Verstraelen
+2013-2014 (R. Poesen)	0	Annelies	Noppe
+2013-2014 (R. Poesen)	0	Charles	Van Impe
+2013-2014 (R. Poesen)	0	Ymke	Vanherp
+2013-2014 (R. Poesen)	0	Katrien	Sergooris
+2013-2014 (R. Poesen)	0	Niels	Bogaerts
+2013-2014 (R. Poesen)	0	Eva	Bronckaerts
+2013-2014 (R. Poesen)	0	Joke	Francois
+2013-2014 (R. Poesen)	0	Mike	Avonts
+2013-2014 (R. Poesen)	0	Loïc	Viroux
+2013-2014 (R. Poesen)	0	Audrey	De Bry
+2013-2014 (R. Poesen)	0	Sam	Vandormael
+2013-2014 (R. Poesen)	0	Evelynn	Van Hautegem
+2013-2014 (R. Poesen)	0	Melissa	De Maeyer
+2013-2014 (R. Poesen)	0	Jennifer	Bal
+2013-2014 (R. Poesen)	0	Tina	Smets
+2014-2015 (S. De Ridder)	1	Louis	Curtil
+2014-2015 (S. De Ridder)	0	Jonathan	Hooft
+2014-2015 (S. De Ridder)	1	Rens	Poesen
+2014-2015 (S. De Ridder)	1	Tatjana	Stans
+2014-2015 (S. De Ridder)	0	Alexander	Peirs
+2014-2015 (S. De Ridder)	1	Sara	De Ridder
+2014-2015 (S. De Ridder)	0	Layla	Lemaire
+2014-2015 (S. De Ridder)	1	Joyce	De Gelas
+2014-2015 (S. De Ridder)	0	Stephanie	Maigret
+2014-2015 (S. De Ridder)	1	Elodie	Baele
+2014-2015 (S. De Ridder)	1	Glenn	Van Der Velde
+2014-2015 (S. De Ridder)	0	Manon	Van Laethem
+2014-2015 (S. De Ridder)	1	Caro	Vanderborght
+2014-2015 (S. De Ridder)	0	Arno	Decuyper
+2014-2015 (S. De Ridder)	0	Jeroen	Jorssen
+2014-2015 (S. De Ridder)	0	Marco	In 't Zandt
+2014-2015 (S. De Ridder)	1	Arnaud	Jacquet
+2014-2015 (S. De Ridder)	1	Jannis	Van Doorn
+2014-2015 (S. De Ridder)	1	Jari	Debruyn
+2014-2015 (S. De Ridder)	0	Melissa	Evenepoel
+2014-2015 (S. De Ridder)	0	Matthias	Verstraelen
+2014-2015 (S. De Ridder)	0	Mike	Avonts
+2014-2015 (S. De Ridder)	0	Loïc	Viroux
+2014-2015 (S. De Ridder)	0	Isabeau	Provoost
+2014-2015 (S. De Ridder)	0	Brecht	Vanheers
+2014-2015 (S. De Ridder)	1	Kirsten	Serneels
+2014-2015 (S. De Ridder)	1	Lore	Meganck
+2014-2015 (S. De Ridder)	1	Lies	Broux
+2014-2015 (S. De Ridder)	1	Lori	Van Looveren
+2014-2015 (S. De Ridder)	1	Charlotte	Beghin
+2014-2015 (S. De Ridder)	1	Arthur	Kelecom
+2014-2015 (S. De Ridder)	0	Thomas	van der Mauten
+2014-2015 (S. De Ridder)	0	Nyhall	Schnabel
+2014-2015 (S. De Ridder)	0	Jana	Nys
+2014-2015 (S. De Ridder)	0	Ine	Wittevrongel
+2014-2015 (S. De Ridder)	0	Jesse	Lemmens
+2014-2015 (S. De Ridder)	0	Phaedra	Vandermaesen
+2014-2015 (S. De Ridder)	1	Marion	Van Beurden
+2014-2015 (S. De Ridder)	1	Maxim	Dillen
+2014-2015 (S. De Ridder)	0	Arnaud	Moeykens
+2014-2015 (S. De Ridder)	0	Wout	Van Hees
+2014-2015 (S. De Ridder)	0	Jenny	Bender
+2015-2016 (J. Van Doorn)	1	Rens	Poesen
+2015-2016 (J. Van Doorn)	1	Sara	De Ridder
+2015-2016 (J. Van Doorn)	1	Joyce	De Gelas
+2015-2016 (J. Van Doorn)	1	Elodie	Baele
+2015-2016 (J. Van Doorn)	1	Glenn	Van Der Velde
+2015-2016 (J. Van Doorn)	0	Manon	Van Laethem
+2015-2016 (J. Van Doorn)	1	Caro	Vanderborght
+2015-2016 (J. Van Doorn)	0	Marco	In 't Zandt
+2015-2016 (J. Van Doorn)	1	Arnaud	Jacquet
+2015-2016 (J. Van Doorn)	1	Jannis	Van Doorn
+2015-2016 (J. Van Doorn)	1	Jari	Debruyn
+2015-2016 (J. Van Doorn)	0	Loïc	Viroux
+2015-2016 (J. Van Doorn)	0	Isabeau	Provoost
+2015-2016 (J. Van Doorn)	0	Lore	Meganck
+2015-2016 (J. Van Doorn)	1	Lies	Broux
+2015-2016 (J. Van Doorn)	0	Lori	Van Looveren
+2015-2016 (J. Van Doorn)	0	Charlotte	Beghin
+2015-2016 (J. Van Doorn)	1	Arthur	Kelecom
+2015-2016 (J. Van Doorn)	0	Nyhall	Schnabel
+2015-2016 (J. Van Doorn)	0	Ine	Wittevrongel
+2015-2016 (J. Van Doorn)	0	Jesse	Lemmens
+2015-2016 (J. Van Doorn)	1	Marion	Van Beurden
+2015-2016 (J. Van Doorn)	1	Maxim	Dillen
+2015-2016 (J. Van Doorn)	0	Jenny	Bender
+2015-2016 (J. Van Doorn)	0	Shandy	Wieleman
+2015-2016 (J. Van Doorn)	0	Caroline	De Sloovere
+2015-2016 (J. Van Doorn)	0	Elien	Clerix
+2015-2016 (J. Van Doorn)	0	Elien	Lebuf
+2015-2016 (J. Van Doorn)	0	Katrien	Cools
+2015-2016 (J. Van Doorn)	0	Elise	Jespers
+2015-2016 (J. Van Doorn)	0	Loïc	Viroux
+2015-2016 (J. Van Doorn)	0	Melissa	Berlanger
+2015-2016 (J. Van Doorn)	0	Tineke	Van De Sompel
+2015-2016 (J. Van Doorn)	0	Levi	Leers
+2015-2016 (J. Van Doorn)	0	Cédric	Steenwerckx
+2015-2016 (J. Van Doorn)	0	Maarten	Wuijts
+2015-2016 (J. Van Doorn)	0	Brent	De Smedt
+2016-2017 (G. Van der Velde)	1	Rens	Poesen
+2016-2017 (G. Van der Velde)	1	Sara	De Ridder
+2016-2017 (G. Van der Velde)	0	Joyce	De Gelas
+2016-2017 (G. Van der Velde)	1	Glenn	Van Der Velde
+2016-2017 (G. Van der Velde)	1	Marco	In 't Zandt
+2016-2017 (G. Van der Velde)	1	Arnaud	Jacquet
+2016-2017 (G. Van der Velde)	1	Jannis	Van Doorn
+2016-2017 (G. Van der Velde)	0	Isabeau	Provoost
+2016-2017 (G. Van der Velde)	1	Lore	Meganck
+2016-2017 (G. Van der Velde)	1	Lies	Broux
+2016-2017 (G. Van der Velde)	1	Lori	Van Looveren
+2016-2017 (G. Van der Velde)	0	Charlotte	Beghin
+2016-2017 (G. Van der Velde)	1	Arthur	Kelecom
+2016-2017 (G. Van der Velde)	0	Thomas	van der Mauten
+2016-2017 (G. Van der Velde)	0	Nyhall	Schnabel
+2016-2017 (G. Van der Velde)	1	Ine	Wittevrongel
+2016-2017 (G. Van der Velde)	1	Marion	Van Beurden
+2016-2017 (G. Van der Velde)	1	Maxim	Dillen
+2016-2017 (G. Van der Velde)	0	Caroline	De Sloovere
+2016-2017 (G. Van der Velde)	0	Elien	Clerix
+2016-2017 (G. Van der Velde)	1	Elien	Lebuf
+2016-2017 (G. Van der Velde)	0	Katrien	Cools
+2016-2017 (G. Van der Velde)	1	Loïc	Viroux
+2016-2017 (G. Van der Velde)	1	Cédric	Steenwerckx
+2016-2017 (G. Van der Velde)	1	Maarten	Wuijts
+2016-2017 (G. Van der Velde)	0	Brent	De Smedt
+2016-2017 (G. Van der Velde)	0	Sofie	Bynens
+2016-2017 (G. Van der Velde)	0	Lieselot	Haine
+2016-2017 (G. Van der Velde)	1	Jelle	Habay
+2016-2017 (G. Van der Velde)	0	Alicia	Sterckx
+2016-2017 (G. Van der Velde)	1	Caroline	Akst
+2016-2017 (G. Van der Velde)	0	Carla	Araldi
+2016-2017 (G. Van der Velde)	0	Stien	Moreel
+2016-2017 (G. Van der Velde)	0	Savannah	Heréus
+2016-2017 (G. Van der Velde)	0	Bjarne	Lins
+2016-2017 (G. Van der Velde)	0	Intissare	Atid
+2016-2017 (G. Van der Velde)	0	Anaelle	Akwesi
+2016-2017 (G. Van der Velde)	1	Manon	Gevaert
+2016-2017 (G. Van der Velde)	0	Elien	Biebaut
+2016-2017 (G. Van der Velde)	0	Liesbeth	Goethals
+2016-2017 (G. Van der Velde)	0	Hendrik	Van Bastelaere
+2016-2017 (G. Van der Velde)	1	Toninio	Waelkens
+2016-2017 (G. Van der Velde)	0	Thomas	Favresse
+2016-2017 (G. Van der Velde)	0	Ruben	Van Droogenbroek
+2016-2017 (G. Van der Velde)	0	Doerien	De Meersman
+2016-2017 (G. Van der Velde)	0	Antonio	Roberte Neto
+2016-2017 (G. Van der Velde)	0	Thijs	Meeseman
+2017-2018 (M. Wuijts)	1	Rens	Poesen
+2017-2018 (M. Wuijts)	1	Joyce	De Gelas
+2017-2018 (M. Wuijts)	0	Glenn	Van Der Velde
+2017-2018 (M. Wuijts)	1	Marco	In 't Zandt
+2017-2018 (M. Wuijts)	1	Arnaud	Jacquet
+2017-2018 (M. Wuijts)	1	Lies	Broux
+2017-2018 (M. Wuijts)	0	Charlotte	Beghin
+2017-2018 (M. Wuijts)	1	Arthur	Kelecom
+2017-2018 (M. Wuijts)	1	Thomas	van der Mauten
+2017-2018 (M. Wuijts)	1	Maxim	Dillen
+2017-2018 (M. Wuijts)	0	Elien	Clerix
+2017-2018 (M. Wuijts)	0	Elien	Lebuf
+2017-2018 (M. Wuijts)	0	Katrien	Cools
+2017-2018 (M. Wuijts)	1	Loïc	Viroux
+2017-2018 (M. Wuijts)	1	Cédric	Steenwerckx
+2017-2018 (M. Wuijts)	1	Maarten	Wuijts
+2017-2018 (M. Wuijts)	1	Brent	De Smedt
+2017-2018 (M. Wuijts)	0	Lieselot	Haine
+2017-2018 (M. Wuijts)	0	Jelle	Habay
+2017-2018 (M. Wuijts)	1	Alicia	Sterckx
+2017-2018 (M. Wuijts)	1	Caroline	Akst
+2017-2018 (M. Wuijts)	0	Carla	Araldi
+2017-2018 (M. Wuijts)	0	Stien	Moreel
+2017-2018 (M. Wuijts)	1	Manon	Gevaert
+2017-2018 (M. Wuijts)	1	Toninio	Waelkens
+2017-2018 (M. Wuijts)	0	Antonio	Roberte Neto
+2017-2018 (M. Wuijts)	1	Thijs	Meeseman
+2017-2018 (M. Wuijts)	0	Melanie	Coppey
+2017-2018 (M. Wuijts)	1	Cédric	Materné
+2017-2018 (M. Wuijts)	0	Kenzo	Bandinelli
+2017-2018 (M. Wuijts)	1	Nick	Warmoes
+2017-2018 (M. Wuijts)	1	Aline	Tréfois
+2017-2018 (M. Wuijts)	1	Glenn	de Meuter
+2017-2018 (M. Wuijts)	0	Livia	Hoeben
+2017-2018 (M. Wuijts)	1	Dries	Arijs
+2017-2018 (M. Wuijts)	1	Robby	Keymolen
+2017-2018 (M. Wuijts)	1	Dario	Vanden Steen
+2017-2018 (M. Wuijts)	1	Jan	Van Impe
+2017-2018 (M. Wuijts)	1	Stef	Van Campenhout
+2017-2018 (M. Wuijts)	0	Dante	Van Hooydonck
+2017-2018 (M. Wuijts)	1	Nico	Verhaegen
+2018-2019 (R. Keymolen)	1	Glenn	Van Der Velde
+2018-2019 (R. Keymolen)	0	Marco	In 't Zandt
+2018-2019 (R. Keymolen)	1	Maarten	Wuijts
+2018-2019 (R. Keymolen)	0	Brent	De Smedt
+2018-2019 (R. Keymolen)	1	Lieselot	Haine
+2018-2019 (R. Keymolen)	1	Jelle	Habay
+2018-2019 (R. Keymolen)	1	Caroline	Akst
+2018-2019 (R. Keymolen)	0	Manon	Gevaert
+2018-2019 (R. Keymolen)	0	Hendrik	Van Bastelaere
+2018-2019 (R. Keymolen)	1	Toninio	Waelkens
+2018-2019 (R. Keymolen)	0	Melanie	Coppey
+2018-2019 (R. Keymolen)	0	Aline	Tréfois
+2018-2019 (R. Keymolen)	0	Glenn	de Meuter
+2018-2019 (R. Keymolen)	1	Robby	Keymolen
+2018-2019 (R. Keymolen)	0	Dario	Vanden Steen
+2018-2019 (R. Keymolen)	1	Stef	Van Campenhout
+2018-2019 (R. Keymolen)	0	Dante	Van Hooydonck
+2018-2019 (R. Keymolen)	1	Sander	van Waesberghe
+2018-2019 (R. Keymolen)	0	Wanne	Renquin
+2018-2019 (R. Keymolen)	0	Wander	Neyrinckx
+2018-2019 (R. Keymolen)	0	Lena	van Beek
+2018-2019 (R. Keymolen)	0	Brecht	Neirinckx
+2018-2019 (R. Keymolen)	0	Gilles	Hammes
+2018-2019 (R. Keymolen)	0	Emile	Cox
+2018-2019 (R. Keymolen)	0	Lindsay	Ackersmans
+2018-2019 (R. Keymolen)	0	Raf	Hoogsteyns
+2018-2019 (R. Keymolen)	1	Sander	Maertens
+2018-2019 (R. Keymolen)	0	Anke	Robbeets
+2018-2019 (R. Keymolen)	0	Lorine	Peyskens
+2018-2019 (R. Keymolen)	0	Sacha	Fontaine
+2018-2019 (R. Keymolen)	0	Sanne	Kingma
+2018-2019 (R. Keymolen)	0	Jolan	Mariën
+2018-2019 (R. Keymolen)	0	Maxime	Togaert
+2018-2019 (R. Keymolen)	0	Daan Karl	Huybrechtsen
+2019-2020 (H. van Bastelaere)	1	Glenn	Van Der Velde
+2019-2020 (H. van Bastelaere)	1	Maarten	Wuijts
+2019-2020 (H. van Bastelaere)	0	Brent	De Smedt
+2019-2020 (H. van Bastelaere)	1	Jelle	Habay
+2019-2020 (H. van Bastelaere)	1	Hendrik	Van Bastelaere
+2019-2020 (H. van Bastelaere)	0	Aline	Tréfois
+2019-2020 (H. van Bastelaere)	0	Glenn	de Meuter
+2019-2020 (H. van Bastelaere)	0	Robby	Keymolen
+2019-2020 (H. van Bastelaere)	1	Dario	Vanden Steen
+2019-2020 (H. van Bastelaere)	1	Stef	Van Campenhout
+2019-2020 (H. van Bastelaere)	1	Wanne	Renquin
+2019-2020 (H. van Bastelaere)	1	Lena	van Beek
+2019-2020 (H. van Bastelaere)	1	Raf	Hoogsteyns
+2019-2020 (H. van Bastelaere)	0	Sander	Maertens
+2019-2020 (H. van Bastelaere)	1	Lorine	Peyskens
+2019-2020 (H. van Bastelaere)	1	Sacha	Fontaine
+2019-2020 (H. van Bastelaere)	1	Sanne	Kingma
+2019-2020 (H. van Bastelaere)	0	Maxime	Togaert
+2019-2020 (H. van Bastelaere)	0	Daan Karl	Huybrechtsen
+2019-2020 (H. van Bastelaere)	0	Mats	Leemans
+2019-2020 (H. van Bastelaere)	0	Loran	Van Hul
+2019-2020 (H. van Bastelaere)	1	Eleonore	van de Kerckhof
+2019-2020 (H. van Bastelaere)	1	Julie	Togaert
+2019-2020 (H. van Bastelaere)	0	Bente	Lambin
+2019-2020 (H. van Bastelaere)	1	Aline	Vermeiren
+2019-2020 (H. van Bastelaere)	1	Lucas	Vermoessen
+2019-2020 (H. van Bastelaere)	0	Anke	Van Strythem
+2019-2020 (H. van Bastelaere)	0	Diane	Decoste
+2019-2020 (H. van Bastelaere)	1	Emiel	Geirnaert
+2019-2020 (H. van Bastelaere)	1	Oona	Sterckx
+2019-2020 (H. van Bastelaere)	1	Raissa	Peeters
+2019-2020 (H. van Bastelaere)	1	Juliette	Deraedt
+2019-2020 (H. van Bastelaere)	0	Shania	Cornet
+2019-2020 (H. van Bastelaere)	1	Anouck	Leo
+2019-2020 (H. van Bastelaere)	1	Stef	De Greef
+2019-2020 (H. van Bastelaere)	1	Bapthist	Jonckheere
+2020-2021 (B. Jonckheere)	1	Glenn	Van Der Velde
+2020-2021 (B. Jonckheere)	0	Maarten	Wuijts
+2020-2021 (B. Jonckheere)	0	Brent	De Smedt
+2020-2021 (B. Jonckheere)	1	Jelle	Habay
+2020-2021 (B. Jonckheere)	0	Hendrik	Van Bastelaere
+2020-2021 (B. Jonckheere)	0	Toninio	Waelkens
+2020-2021 (B. Jonckheere)	0	Aline	Tréfois
+2020-2021 (B. Jonckheere)	0	Glenn	de Meuter
+2020-2021 (B. Jonckheere)	1	Robby	Keymolen
+2020-2021 (B. Jonckheere)	0	Dario	Vanden Steen
+2020-2021 (B. Jonckheere)	1	Stef	Van Campenhout
+2020-2021 (B. Jonckheere)	0	Wanne	Renquin
+2020-2021 (B. Jonckheere)	0	Lena	van Beek
+2020-2021 (B. Jonckheere)	1	Sander	Maertens
+2020-2021 (B. Jonckheere)	1	Sanne	Kingma
+2020-2021 (B. Jonckheere)	0	Jolan	Mariën
+2020-2021 (B. Jonckheere)	0	Maxime	Togaert
+2020-2021 (B. Jonckheere)	1	Daan Karl	Huybrechtsen
+2020-2021 (B. Jonckheere)	1	Loran	Van Hul
+2020-2021 (B. Jonckheere)	0	Eleonore	van de Kerckhof
+2020-2021 (B. Jonckheere)	0	Julie	Togaert
+2020-2021 (B. Jonckheere)	1	Aline	Vermeiren
+2020-2021 (B. Jonckheere)	0	Lucas	Vermoessen
+2020-2021 (B. Jonckheere)	0	Anke	Van Strythem
+2020-2021 (B. Jonckheere)	0	Emiel	Geirnaert
+2020-2021 (B. Jonckheere)	0	Oona	Sterckx
+2020-2021 (B. Jonckheere)	1	Raissa	Peeters
+2020-2021 (B. Jonckheere)	0	Juliette	Deraedt
+2020-2021 (B. Jonckheere)	1	Anouck	Leo
+2020-2021 (B. Jonckheere)	0	Stef	De Greef
+2020-2021 (B. Jonckheere)	1	Bapthist	Jonckheere
+2020-2021 (B. Jonckheere)	0	Thomas	Bertem
+2020-2021 (B. Jonckheere)	0	Camille	Noël
+2020-2021 (B. Jonckheere)	0	Arko	Heye
+2020-2021 (B. Jonckheere)	0	Linde	Loccufier
+2020-2021 (B. Jonckheere)	0	Lentl	Van Roy
+2020-2021 (B. Jonckheere)	0	Margaux	Mouchart
+2020-2021 (B. Jonckheere)	0	Alison	Blocry
+2020-2021 (B. Jonckheere)	0	Lynn	De Greef
+2020-2021 (B. Jonckheere)	0	Taylan	Kasaba
+2020-2021 (B. Jonckheere)	0	Noah	Boone
+2020-2021 (B. Jonckheere)	1	Anke	Van Loock
+2020-2021 (B. Jonckheere)	0	Zoë	Dujardin
+2020-2021 (B. Jonckheere)	0	Axel	Peeters
+2020-2021 (B. Jonckheere)	1	Jannes	Broigniez
+2020-2021 (B. Jonckheere)	1	Chloe	Carpentier
+2020-2021 (B. Jonckheere)	1	Danaé	Vannerom
+2020-2021 (B. Jonckheere)	0	Dani	Maluta
+2020-2021 (B. Jonckheere)	0	Maëlle	Cosemans
+2020-2021 (B. Jonckheere)	1	Emilio	Callies
+2020-2021 (B. Jonckheere)	1	Imran	El Friyakh
+2021-2022 (D. K. Hubrechtsen)	1	Robby	Keymolen
+2021-2022 (D. K. Hubrechtsen)	1	Dario	Vanden Steen
+2021-2022 (D. K. Hubrechtsen)	1	Stef	Van Campenhout
+2021-2022 (D. K. Hubrechtsen)	1	Wanne	Renquin
+2021-2022 (D. K. Hubrechtsen)	1	Lena	van Beek
+2021-2022 (D. K. Hubrechtsen)	1	Sander	Maertens
+2021-2022 (D. K. Hubrechtsen)	0	Sanne	Kingma
+2021-2022 (D. K. Hubrechtsen)	1	Maxime	Togaert
+2021-2022 (D. K. Hubrechtsen)	1	Daan Karl	Huybrechtsen
+2021-2022 (D. K. Hubrechtsen)	0	Eleonore	van de Kerckhof
+2021-2022 (D. K. Hubrechtsen)	0	Aline	Vermeiren
+2021-2022 (D. K. Hubrechtsen)	1	Lucas	Vermoessen
+2021-2022 (D. K. Hubrechtsen)	1	Oona	Sterckx
+2021-2022 (D. K. Hubrechtsen)	1	Raissa	Peeters
+2021-2022 (D. K. Hubrechtsen)	0	Juliette	Deraedt
+2021-2022 (D. K. Hubrechtsen)	1	Anouck	Leo
+2021-2022 (D. K. Hubrechtsen)	0	Bapthist	Jonckheere
+2021-2022 (D. K. Hubrechtsen)	0	Thomas	Bertem
+2021-2022 (D. K. Hubrechtsen)	0	Camille	Noël
+2021-2022 (D. K. Hubrechtsen)	1	Arko	Heye
+2021-2022 (D. K. Hubrechtsen)	1	Linde	Loccufier
+2021-2022 (D. K. Hubrechtsen)	0	Lentl	Van Roy
+2021-2022 (D. K. Hubrechtsen)	0	Alison	Blocry
+2021-2022 (D. K. Hubrechtsen)	0	Lynn	De Greef
+2021-2022 (D. K. Hubrechtsen)	0	Anke	Van Loock
+2021-2022 (D. K. Hubrechtsen)	0	Axel	Peeters
+2021-2022 (D. K. Hubrechtsen)	1	Jannes	Broigniez
+2021-2022 (D. K. Hubrechtsen)	0	Chloe	Carpentier
+2021-2022 (D. K. Hubrechtsen)	1	Danaé	Vannerom
+2021-2022 (D. K. Hubrechtsen)	0	Dani	Maluta
+2021-2022 (D. K. Hubrechtsen)	1	Emilo	Callies
+2021-2022 (D. K. Hubrechtsen)	1	Imran	El Friyakh
