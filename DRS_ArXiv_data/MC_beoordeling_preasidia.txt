@@ -1,0 +1,848 @@
+jaar_senior	naam	beoordeling	voornaam	achternaam
+1990-1991 (S. Willems)	Willems Stephan	1	Stephan	Willems
+1990-1991 (S. Willems)	Van Der Veen Philip	1	Philip	Van Der Veen
+1990-1991 (S. Willems)	De Backer Steven	1	Steven	De Backer
+1990-1991 (S. Willems)	Boon Ann	1	Ann	Boon
+1990-1991 (S. Willems)	Devos Wim	1	Wim	Devos
+1990-1991 (S. Willems)	Lofgren Walter	1	Walter	Lofgren
+1990-1991 (S. Willems)	Boets Dirk	1	Dirk	Boets
+1990-1991 (S. Willems)	Steverlynck Tom	1	Tom	Steverlynck
+1991-1992 (P. Van Der Veen)	Willems Stephan	1	Stephan	Willems
+1991-1992 (P. Van Der Veen)	Van Der Veen Philip	1	Philip	Van Der Veen
+1991-1992 (P. Van Der Veen)	De Backer Steven	1	Steven	De Backer
+1991-1992 (P. Van Der Veen)	Devos Wim	0	Wim	Devos
+1991-1992 (P. Van Der Veen)	Steverlynck Tom	1	Tom	Steverlynck
+1991-1992 (P. Van Der Veen)	Van Handenhoven Chris	1	Chris	Van Handenhoven
+1991-1992 (P. Van Der Veen)	DupontiÃ¨re Frank	0	Frank	Dupontière
+1991-1992 (P. Van Der Veen)	Vander Slagmolen Gert	0	Gert	Vander Slagmolen
+1991-1992 (P. Van Der Veen)	Wamback Tom	0	Tom	Wamback
+1991-1992 (P. Van Der Veen)	Loyens Cisse	0	Cisse	Loyens
+1991-1992 (P. Van Der Veen)	Schoffelen Joeri	0	Joeri	Schoffelen
+1992-1993 (T. Steverlynck)	Willems Stephan	1	Stephan	Willems
+1992-1993 (T. Steverlynck)	Van Der Veen Philip	0	Philip	Van Der Veen
+1992-1993 (T. Steverlynck)	De Backer Steven	1	Steven	De Backer
+1992-1993 (T. Steverlynck)	Devos Wim	1	Wim	Devos
+1992-1993 (T. Steverlynck)	Steverlynck Tom	1	Tom	Steverlynck
+1992-1993 (T. Steverlynck)	Van Handenhoven Chris	1	Chris	Van Handenhoven
+1992-1993 (T. Steverlynck)	Loyens Cisse	1	Cisse	Loyens
+1992-1993 (T. Steverlynck)	Schoffelen Joeri	0	Joeri	Schoffelen
+1992-1993 (T. Steverlynck)	Desmet Bart	1	Bart	Desmet
+1992-1993 (T. Steverlynck)	Scheirs Johan	1	Johan	Scheirs
+1992-1993 (T. Steverlynck)	Theylaert Dieter	1	Dieter	Theylaert
+1992-1993 (T. Steverlynck)	Moors Jochen	0	Jochen	Moors
+1992-1993 (T. Steverlynck)	Godefroid Sebastien	0	Sebastien	Godefroid
+1993-1994 (D. Theylaert)	De Backer Steven	1	Steven	De Backer
+1993-1994 (D. Theylaert)	Van Handenhoven Chris	0	Chris	Van Handenhoven
+1993-1994 (D. Theylaert)	Loyens Cisse	1	Cisse	Loyens
+1993-1994 (D. Theylaert)	Desmet Bart	0	Bart	Desmet
+1993-1994 (D. Theylaert)	Scheirs Johan	1	Johan	Scheirs
+1993-1994 (D. Theylaert)	Theylaert Dieter	1	Dieter	Theylaert
+1993-1994 (D. Theylaert)	Moors Jochen	1	Jochen	Moors
+1993-1994 (D. Theylaert)	De Dekker Anja	0	Anja	De Dekker
+1993-1994 (D. Theylaert)	Kempenaers Farid	1	Farid	Kempenaers
+1993-1994 (D. Theylaert)	Leys Ellen	1	Ellen	Leys
+1993-1994 (D. Theylaert)	De Ceulaer Jo	0	Jo	De Ceulaer
+1993-1994 (D. Theylaert)	Cloetens Xavier	1	Xavier	Cloetens
+1993-1994 (D. Theylaert)	Loos MichÃ¨lle	1	Michèlle	Loos
+1993-1994 (D. Theylaert)	De Rop Yves	1	Yves	De Rop
+1994-1995 (X. Cloetens)	De Backer Steven	1	Steven	De Backer
+1994-1995 (X. Cloetens)	Loyens Cisse	0	Cisse	Loyens
+1994-1995 (X. Cloetens)	Theylaert Dieter	0	Dieter	Theylaert
+1994-1995 (X. Cloetens)	Moors Jochen	0	Jochen	Moors
+1994-1995 (X. Cloetens)	De Dekker Anja	1	Anja	De Dekker
+1994-1995 (X. Cloetens)	Kempenaers Farid	1	Farid	Kempenaers
+1994-1995 (X. Cloetens)	Leys Ellen	1	Ellen	Leys
+1994-1995 (X. Cloetens)	De Ceulaer Jo	1	Jo	De Ceulaer
+1994-1995 (X. Cloetens)	Cloetens Xavier	1	Xavier	Cloetens
+1994-1995 (X. Cloetens)	Loos MichÃ¨lle	0	Michèlle	Loos
+1994-1995 (X. Cloetens)	De Rop Yves	0	Yves	De Rop
+1994-1995 (X. Cloetens)	Matheus Hans	0	Hans	Matheus
+1994-1995 (X. Cloetens)	Leerman Wim	1	Wim	Leerman
+1994-1995 (X. Cloetens)	Gahy Inge	1	Inge	Gahy
+1994-1995 (X. Cloetens)	Bouillon Erwin	0	Erwin	Bouillon
+1994-1995 (X. Cloetens)	Gijsels Joeri	1	Joeri	Gijsels
+1994-1995 (X. Cloetens)	De Leeuw Koen	0	Koen	De Leeuw
+1994-1995 (X. Cloetens)	Casteels Sandra	0	Sandra	Casteels
+1994-1995 (X. Cloetens)	Van Hecke Wim	0	Wim	Van Hecke
+1994-1995 (X. Cloetens)	Roeland Jonathan	0	Jonathan	Roeland
+1995-1996 (C. Van Handenhoven)	Van Handenhoven Chris	1	Chris	Van Handenhoven
+1995-1996 (C. Van Handenhoven)	Theylaert Dieter	0	Dieter	Theylaert
+1995-1996 (C. Van Handenhoven)	Kempenaers Farid	0	Farid	Kempenaers
+1995-1996 (C. Van Handenhoven)	Leys Ellen	1	Ellen	Leys
+1995-1996 (C. Van Handenhoven)	Loos MichÃ¨lle	1	Michèlle	Loos
+1995-1996 (C. Van Handenhoven)	Leerman Wim	1	Wim	Leerman
+1995-1996 (C. Van Handenhoven)	Gahy Inge	1	Inge	Gahy
+1995-1996 (C. Van Handenhoven)	Gijsels Joeri	1	Joeri	Gijsels
+1995-1996 (C. Van Handenhoven)	Leys Anouk	1	Anouk	Leys
+1995-1996 (C. Van Handenhoven)	Van Kerckhove Brecht	1	Brecht	Van Kerckhove
+1995-1996 (C. Van Handenhoven)	Van Kerckhove Tinneke	0	Tinneke	Van Kerckhove
+1995-1996 (C. Van Handenhoven)	Vannijvel Joeri	1	Joeri	Vannijvel
+1995-1996 (C. Van Handenhoven)	Mortelmans Gert	1	Gert	Mortelmans
+1995-1996 (C. Van Handenhoven)	Van Malderen Karl	0	Karl	Van Malderen
+1995-1996 (C. Van Handenhoven)	Sillen Tom	0	Tom	Sillen
+1995-1996 (C. Van Handenhoven)	Verheyen Joshua	0	Joshua	Verheyen
+1995-1996 (C. Van Handenhoven)	Vandewalle Wim	1	Wim	Vandewalle
+1996-1997 (W. Leerman)	Theylaert Dieter	0	Dieter	Theylaert
+1996-1997 (W. Leerman)	Kempenaers Farid	1	Farid	Kempenaers
+1996-1997 (W. Leerman)	De Rop Yves	1	Yves	De Rop
+1996-1997 (W. Leerman)	Leerman Wim	1	Wim	Leerman
+1996-1997 (W. Leerman)	Gijsels Joeri	1	Joeri	Gijsels
+1996-1997 (W. Leerman)	Van Kerckhove Brecht	0	Brecht	Van Kerckhove
+1996-1997 (W. Leerman)	Vannijvel Joeri	1	Joeri	Vannijvel
+1996-1997 (W. Leerman)	Mortelmans Gert	1	Gert	Mortelmans
+1996-1997 (W. Leerman)	Sillen Tom	1	Tom	Sillen
+1996-1997 (W. Leerman)	Verheyen Joshua	0	Joshua	Verheyen
+1996-1997 (W. Leerman)	Van Peer Joris	0	Joris	Van Peer
+1996-1997 (W. Leerman)	Nijs Jo	1	Jo	Nijs
+1996-1997 (W. Leerman)	Demeyst Steven	1	Steven	Demeyst
+1996-1997 (W. Leerman)	Taylor Kevin	1	Kevin	Taylor
+1996-1997 (W. Leerman)	Wastyn Jari	0	Jari	Wastyn
+1996-1997 (W. Leerman)	Tobbackx Yannick	0	Yannick	Tobbackx
+1996-1997 (W. Leerman)	Eeraerts Gert	1	Gert	Eeraerts
+1996-1997 (W. Leerman)	Defoort Nick	0	Nick	Defoort
+1996-1997 (W. Leerman)	Rousseeuw Sofie	0	Sofie	Rousseeuw
+1997-1998 (J. Gijsels)	Theylaert Dieter	0	Dieter	Theylaert
+1997-1998 (J. Gijsels)	De Rop Yves	0	Yves	De Rop
+1997-1998 (J. Gijsels)	Leerman Wim	1	Wim	Leerman
+1997-1998 (J. Gijsels)	Gijsels Joeri	1	Joeri	Gijsels
+1997-1998 (J. Gijsels)	Vannijvel Joeri	1	Joeri	Vannijvel
+1997-1998 (J. Gijsels)	Mortelmans Gert	1	Gert	Mortelmans
+1997-1998 (J. Gijsels)	Sillen Tom	1	Tom	Sillen
+1997-1998 (J. Gijsels)	Verheyen Joshua	1	Joshua	Verheyen
+1997-1998 (J. Gijsels)	Van Peer Joris	0	Joris	Van Peer
+1997-1998 (J. Gijsels)	Nijs Jo	1	Jo	Nijs
+1997-1998 (J. Gijsels)	Taylor Kevin	1	Kevin	Taylor
+1997-1998 (J. Gijsels)	Eeraerts Gert	1	Gert	Eeraerts
+1997-1998 (J. Gijsels)	Defoort Nick	0	Nick	Defoort
+1997-1998 (J. Gijsels)	Rousseeuw Sofie	1	Sofie	Rousseeuw
+1997-1998 (J. Gijsels)	Vandewalle Wim	0	Wim	Vandewalle
+1997-1998 (J. Gijsels)	Van den Bergen Kathy	0	Kathy	Van den Bergen
+1997-1998 (J. Gijsels)	Beckers Kristien	0	Kristien	Beckers
+1997-1998 (J. Gijsels)	Van Gyseghem Tom	0	Tom	Van Gyseghem
+1997-1998 (J. Gijsels)	Vetters Dries	0	Dries	Vetters
+1997-1998 (J. Gijsels)	Caeyenberghs Gilly	0	Gilly	Caeyenberghs
+1997-1998 (J. Gijsels)	Morand Stijn	0	Stijn	Morand
+1997-1998 (J. Gijsels)	Mies Karl	0	Karl	Mies
+1997-1998 (J. Gijsels)	Verheyen Koen	0	Koen	Verheyen
+1997-1998 (J. Gijsels)	Vande Wiele Olivier	1	Olivier	Vande Wiele
+1997-1998 (J. Gijsels)	Beckers Heike	0	Heike	Beckers
+1997-1998 (J. Gijsels)	Buyl Ronald	0	Ronald	Buyl
+1997-1998 (J. Gijsels)	Van der Eecken Helena	0	Helena	Van der Eecken
+1997-1998 (J. Gijsels)	De Ceulaer Filip	0	Filip	De Ceulaer
+1997-1998 (J. Gijsels)	Van Peer Lieven	0	Lieven	Van Peer
+1997-1998 (J. Gijsels)	Roets Nick	0	Nick	Roets
+1997-1998 (J. Gijsels)	Denorme Els	1	Els	Denorme
+1998-1999 (J. Verheyen)	Theylaert Dieter	0	Dieter	Theylaert
+1998-1999 (J. Verheyen)	Leerman Wim	1	Wim	Leerman
+1998-1999 (J. Verheyen)	Gijsels Joeri	1	Joeri	Gijsels
+1998-1999 (J. Verheyen)	Mortelmans Gert	1	Gert	Mortelmans
+1998-1999 (J. Verheyen)	Verheyen Joshua	1	Joshua	Verheyen
+1998-1999 (J. Verheyen)	Taylor Kevin	0	Kevin	Taylor
+1998-1999 (J. Verheyen)	Eeraerts Gert	1	Gert	Eeraerts
+1998-1999 (J. Verheyen)	Rousseeuw Sofie	1	Sofie	Rousseeuw
+1998-1999 (J. Verheyen)	Van Gyseghem Tom	0	Tom	Van Gyseghem
+1998-1999 (J. Verheyen)	Caeyenberghs Gilly	1	Gilly	Caeyenberghs
+1998-1999 (J. Verheyen)	Morand Stijn	0	Stijn	Morand
+1998-1999 (J. Verheyen)	Mies Karl	1	Karl	Mies
+1998-1999 (J. Verheyen)	Verheyen Koen	0	Koen	Verheyen
+1998-1999 (J. Verheyen)	Vande Wiele Olivier	0	Olivier	Vande Wiele
+1998-1999 (J. Verheyen)	Beckers Heike	0	Heike	Beckers
+1998-1999 (J. Verheyen)	Buyl Ronald	0	Ronald	Buyl
+1998-1999 (J. Verheyen)	Van Peer Lieven	0	Lieven	Van Peer
+1998-1999 (J. Verheyen)	Denorme Els	0	Els	Denorme
+1998-1999 (J. Verheyen)	Mol Bram	0	Bram	Mol
+1998-1999 (J. Verheyen)	Ivens Lien	0	Lien	Ivens
+1998-1999 (J. Verheyen)	Germeys Sven	1	Sven	Germeys
+1998-1999 (J. Verheyen)	Michiels Esther	0	Esther	Michiels
+1998-1999 (J. Verheyen)	Simons Manu	0	Manu	Simons
+1998-1999 (J. Verheyen)	Prinsen Serge	0	Serge	Prinsen
+1999-2000 (G. Mortelmans)	Cloetens Xavier	1	Xavier	Cloetens
+1999-2000 (G. Mortelmans)	Leerman Wim	1	Wim	Leerman
+1999-2000 (G. Mortelmans)	Gijsels Joeri	1	Joeri	Gijsels
+1999-2000 (G. Mortelmans)	Mortelmans Gert	1	Gert	Mortelmans
+1999-2000 (G. Mortelmans)	Verheyen Joshua	1	Joshua	Verheyen
+1999-2000 (G. Mortelmans)	Taylor Kevin	1	Kevin	Taylor
+1999-2000 (G. Mortelmans)	Eeraerts Gert	0	Gert	Eeraerts
+1999-2000 (G. Mortelmans)	Rousseeuw Sofie	1	Sofie	Rousseeuw
+1999-2000 (G. Mortelmans)	Van Gyseghem Tom	1	Tom	Van Gyseghem
+1999-2000 (G. Mortelmans)	Vande Wiele Olivier	0	Olivier	Vande Wiele
+1999-2000 (G. Mortelmans)	Beckers Heike	1	Heike	Beckers
+1999-2000 (G. Mortelmans)	Buyl Ronald	0	Ronald	Buyl
+1999-2000 (G. Mortelmans)	Denorme Els	1	Els	Denorme
+1999-2000 (G. Mortelmans)	Germeys Sven	1	Sven	Germeys
+1999-2000 (G. Mortelmans)	Michiels Esther	0	Esther	Michiels
+1999-2000 (G. Mortelmans)	Goovaerts Kevin	0	Kevin	Goovaerts
+1999-2000 (G. Mortelmans)	Bruynseels Geert	0	Geert	Bruynseels
+1999-2000 (G. Mortelmans)	Vanlessen Micha	0	Micha	Vanlessen
+1999-2000 (G. Mortelmans)	Verheyleweghen Fien	1	Fien	Verheyleweghen
+1999-2000 (G. Mortelmans)	Van Grimbergen Elke	1	Elke	Van Grimbergen
+1999-2000 (G. Mortelmans)	Enckels Barbara	0	Barbara	Enckels
+1999-2000 (G. Mortelmans)	Lecluyse Barbara	0	Barbara	Lecluyse
+2000-2001 (T. Van Gyseghem)	Leerman Wim	1	Wim	Leerman
+2000-2001 (T. Van Gyseghem)	Gijsels Joeri	1	Joeri	Gijsels
+2000-2001 (T. Van Gyseghem)	Mortelmans Gert	1	Gert	Mortelmans
+2000-2001 (T. Van Gyseghem)	Eeraerts Gert	1	Gert	Eeraerts
+2000-2001 (T. Van Gyseghem)	Rousseeuw Sofie	1	Sofie	Rousseeuw
+2000-2001 (T. Van Gyseghem)	Van Gyseghem Tom	1	Tom	Van Gyseghem
+2000-2001 (T. Van Gyseghem)	Beckers Heike	0	Heike	Beckers
+2000-2001 (T. Van Gyseghem)	Denorme Els	0	Els	Denorme
+2000-2001 (T. Van Gyseghem)	Germeys Sven	0	Sven	Germeys
+2000-2001 (T. Van Gyseghem)	Michiels Esther	0	Esther	Michiels
+2000-2001 (T. Van Gyseghem)	Goovaerts Kevin	1	Kevin	Goovaerts
+2000-2001 (T. Van Gyseghem)	Bruynseels Geert	0	Geert	Bruynseels
+2000-2001 (T. Van Gyseghem)	Verheyleweghen Fien	0	Fien	Verheyleweghen
+2000-2001 (T. Van Gyseghem)	Van Grimbergen Elke	1	Elke	Van Grimbergen
+2000-2001 (T. Van Gyseghem)	Enckels Barbara	1	Barbara	Enckels
+2000-2001 (T. Van Gyseghem)	Van Cauteren Karen	1	Karen	Van Cauteren
+2000-2001 (T. Van Gyseghem)	De Sutter Mariska	1	Mariska	De Sutter
+2000-2001 (T. Van Gyseghem)	Maddelein Jelle	0	Jelle	Maddelein
+2000-2001 (T. Van Gyseghem)	Van Acker An	0	An	Van Acker
+2001-2002 (H. Beckers)	Leerman Wim	1	Wim	Leerman
+2001-2002 (H. Beckers)	Gijsels Joeri	1	Joeri	Gijsels
+2001-2002 (H. Beckers)	Mortelmans Gert	1	Gert	Mortelmans
+2001-2002 (H. Beckers)	Eeraerts Gert	1	Gert	Eeraerts
+2001-2002 (H. Beckers)	Van Gyseghem Tom	1	Tom	Van Gyseghem
+2001-2002 (H. Beckers)	Beckers Heike	1	Heike	Beckers
+2001-2002 (H. Beckers)	Denorme Els	1	Els	Denorme
+2001-2002 (H. Beckers)	Germeys Sven	1	Sven	Germeys
+2001-2002 (H. Beckers)	Goovaerts Kevin	1	Kevin	Goovaerts
+2001-2002 (H. Beckers)	Van Grimbergen Elke	1	Elke	Van Grimbergen
+2001-2002 (H. Beckers)	Enckels Barbara	1	Barbara	Enckels
+2001-2002 (H. Beckers)	Van Cauteren Karen	1	Karen	Van Cauteren
+2001-2002 (H. Beckers)	De Sutter Mariska	1	Mariska	De Sutter
+2001-2002 (H. Beckers)	DAUWE Wouter	1	Wouter	Dauwe
+2001-2002 (H. Beckers)	Swinnen Eva	1	Eva	Swinnen
+2001-2002 (H. Beckers)	Thielemans Alice	1	Alice	Thielemans
+2001-2002 (H. Beckers)	Verbeeck Kim	1	Kim	Verbeeck
+2001-2002 (H. Beckers)	Meerbergen William	1	William	Meerbergen
+2001-2002 (H. Beckers)	Vetters Ward	1	Ward	Vetters
+2001-2002 (H. Beckers)	Van Ginniken Marjan	1	Marjan	Van Ginniken
+2001-2002 (H. Beckers)	Van Severen Julie	1	Julie	Van Severen
+2001-2002 (H. Beckers)	Bossu Jan	1	Jan	Bossu
+2001-2002 (H. Beckers)	De Coster Sylvie	1	Sylvie	De Coster
+2001-2002 (H. Beckers)	De Munter Katrien	1	Katrien	De Munter
+2002-2003 (K. De Munter)	Leerman Wim	0	Wim	Leerman
+2002-2003 (K. De Munter)	Gijsels Joeri	0	Joeri	Gijsels
+2002-2003 (K. De Munter)	Rousseeuw Sofie	0	Sofie	Rousseeuw
+2002-2003 (K. De Munter)	Van Gyseghem Tom	0	Tom	Van Gyseghem
+2002-2003 (K. De Munter)	Beckers Heike	0	Heike	Beckers
+2002-2003 (K. De Munter)	Van Cauteren Karen	1	Karen	Van Cauteren
+2002-2003 (K. De Munter)	DAUWE Wouter	1	Wouter	Dauwe
+2002-2003 (K. De Munter)	Swinnen Eva	1	Eva	Swinnen
+2002-2003 (K. De Munter)	Thielemans Alice	1	Alice	Thielemans
+2002-2003 (K. De Munter)	Van Severen Julie	1	Julie	Van Severen
+2002-2003 (K. De Munter)	De Munter Katrien	1	Katrien	De Munter
+2002-2003 (K. De Munter)	Aerenhouts Dirk	1	Dirk	Aerenhouts
+2002-2003 (K. De Munter)	Maes Wim	1	Wim	Maes
+2002-2003 (K. De Munter)	Cools Yves	0	Yves	Cools
+2002-2003 (K. De Munter)	Dubois Lieven	0	Lieven	Dubois
+2002-2003 (K. De Munter)	Vermeiren Thomas	0	Thomas	Vermeiren
+2002-2003 (K. De Munter)	Mahieu Nicka	1	Nicka	Mahieu
+2002-2003 (K. De Munter)	De Boitselier Trui	0	Trui	De Boitselier
+2002-2003 (K. De Munter)	BIVACCO Julie	1	Julie	Bivacco
+2003-2004 (W. Dauwe)	Eeraerts Gert	0	Gert	Eeraerts
+2003-2004 (W. Dauwe)	DAUWE Wouter	1	Wouter	Dauwe
+2003-2004 (W. Dauwe)	Swinnen Eva	1	Eva	Swinnen
+2003-2004 (W. Dauwe)	Van Severen Julie	1	Julie	Van Severen
+2003-2004 (W. Dauwe)	Aerenhouts Dirk	1	Dirk	Aerenhouts
+2003-2004 (W. Dauwe)	Cools Yves	1	Yves	Cools
+2003-2004 (W. Dauwe)	Dubois Lieven	0	Lieven	Dubois
+2003-2004 (W. Dauwe)	Mahieu Nicka	1	Nicka	Mahieu
+2003-2004 (W. Dauwe)	BIVACCO Julie	1	Julie	Bivacco
+2003-2004 (W. Dauwe)	COOLSAET Perinne	0	Perinne	Coolsaet
+2003-2004 (W. Dauwe)	VAN DEN BLEEKEN Yannick	1	Yannick	Van Den Bleeken
+2003-2004 (W. Dauwe)	VERBEKE Emmanuel (Manu)	1	Emmanuel	Verbeke
+2003-2004 (W. Dauwe)	BUYSE Jordi	1	Jordi	Buyse
+2003-2004 (W. Dauwe)	CHECCI Lina	1	Lina	Checci
+2003-2004 (W. Dauwe)	D'HANIS Bert	0	Bert	D'Hanis
+2004-2005 (Y. Cools)	DAUWE Wouter	0	Wouter	Dauwe
+2004-2005 (Y. Cools)	Van Severen Julie	1	Julie	Van Severen
+2004-2005 (Y. Cools)	Cools Yves	1	Yves	Cools
+2004-2005 (Y. Cools)	Dubois Lieven	0	Lieven	Dubois
+2004-2005 (Y. Cools)	Mahieu Nicka	1	Nicka	Mahieu
+2004-2005 (Y. Cools)	VAN DEN BLEEKEN Yannick	1	Yannick	Van Den Bleeken
+2004-2005 (Y. Cools)	VERBEKE Emmanuel (Manu)	1	Emmanuel	Verbeke
+2004-2005 (Y. Cools)	BUYSE Jordi	1	Jordi	Buyse
+2004-2005 (Y. Cools)	CHECCI Lina	0	Lina	Checci
+2004-2005 (Y. Cools)	OP DE BEECK Pol	0	Pol	Op De Beeck
+2004-2005 (Y. Cools)	VAN ROY Jan	0	Jan	Van Roy
+2004-2005 (Y. Cools)	VAN HARCK Erik	0	Erik	Van Harck
+2004-2005 (Y. Cools)	GHYSELEN Pieter	0	Pieter	Ghyselen
+2004-2005 (Y. Cools)	VAN LAERE Michel	0	Michel	Van Laere
+2004-2005 (Y. Cools)	TOTH Robby	0	Robby	Toth
+2005-2006 (E. Verbeke)	DAUWE Wouter	1	Wouter	Dauwe
+2005-2006 (E. Verbeke)	VAN DEN BLEEKEN Yannick	1	Yannick	Van Den Bleeken
+2005-2006 (E. Verbeke)	VERBEKE Emmanuel (Manu)	1	Emmanuel	Verbeke
+2005-2006 (E. Verbeke)	BUYSE Jordi	1	Jordi	Buyse
+2005-2006 (E. Verbeke)	VAN ROY Jan	1	Jan	Van Roy
+2005-2006 (E. Verbeke)	VAN HARCK Erik	1	Erik	Van Harck
+2005-2006 (E. Verbeke)	GHYSELEN Pieter	0	Pieter	Ghyselen
+2005-2006 (E. Verbeke)	VERMEYLEN Philip	1	Philip	Vermeylen
+2005-2006 (E. Verbeke)	VAN DEN ABBEEL Arno	1	Arno	Van Den Abbeel
+2005-2006 (E. Verbeke)	VAN DIJCK Britt	1	Britt	Van Dijck
+2005-2006 (E. Verbeke)	VAN CAUWENBERGH Lies	1	Lies	Van Cauwenbergh
+2005-2006 (E. Verbeke)	GOORIS Luc	0	Luc	Gooris
+2005-2006 (E. Verbeke)	ADRIAENSSENS Nele	0	Nele	Adriaenssens
+2005-2006 (E. Verbeke)	GALLET Wim	0	Wim	Gallet
+2005-2006 (E. Verbeke)	BOURDEAUD'HUY Nick	1	Nick	Bourdeaud'huy
+2005-2006 (E. Verbeke)	LAENEN Rob	0	Rob	Laenen
+2006-2007 (J. Buyse)	VAN DEN BLEEKEN Yannick	1	Yannick	Van Den Bleeken
+2006-2007 (J. Buyse)	VERBEKE Emmanuel (Manu)	0	Emmanuel	Verbeke
+2006-2007 (J. Buyse)	BUYSE Jordi	1	Jordi	Buyse
+2006-2007 (J. Buyse)	VAN ROY Jan	0	Jan	Van Roy
+2006-2007 (J. Buyse)	VAN HARCK Erik	0	Erik	Van Harck
+2006-2007 (J. Buyse)	GHYSELEN Pieter	0	Pieter	Ghyselen
+2006-2007 (J. Buyse)	VERMEYLEN Philip	1	Philip	Vermeylen
+2006-2007 (J. Buyse)	VAN DIJCK Britt	1	Britt	Van Dijck
+2006-2007 (J. Buyse)	VAN CAUWENBERGH Lies	1	Lies	Van Cauwenbergh
+2006-2007 (J. Buyse)	ADRIAENSSENS Nele	0	Nele	Adriaenssens
+2006-2007 (J. Buyse)	GALLET Wim	0	Wim	Gallet
+2006-2007 (J. Buyse)	BOURDEAUD'HUY Nick	1	Nick	Bourdeaud'huy
+2006-2007 (J. Buyse)	LAENEN Rob	1	Rob	Laenen
+2006-2007 (J. Buyse)	ROELS Tuur	0	Tuur	Roels
+2006-2007 (J. Buyse)	LEFILS Alex	0	Alex	Lefils
+2006-2007 (J. Buyse)	JANSSENS Kobe	1	Kobe	Janssens
+2006-2007 (J. Buyse)	VERPOEST Maarten	0	Maarten	Verpoest
+2006-2007 (J. Buyse)	JACOBS Geert	0	Geert	Jacobs
+2006-2007 (J. Buyse)	MANIGART Nicolas	1	Nicolas	Manigart
+2006-2007 (J. Buyse)	HERMANS Bieke	1	Bieke	Hermans
+2006-2007 (J. Buyse)	GEELEN Bart	1	Bart	Geelen
+2006-2007 (J. Buyse)	SERCK Samuel	0	Samuel	Serck
+2006-2007 (J. Buyse)	DAAMEN Dieter	1	Dieter	Daamen
+2006-2007 (J. Buyse)	VAN DAM Jimmy	0	Jimmy	Van Dam
+2006-2007 (J. Buyse)	VAN DEUREN Jesse	0	Jesse	Van Deuren
+2006-2007 (J. Buyse)	DE BRUYN Chloe	0	Chloe	De Bruyn
+2006-2007 (J. Buyse)	BROUWERS Jessie	0	Jessie	Brouwers
+2007-2008 (P. Vermeylen)	BUYSE Jordi	1	Jordi	Buyse
+2007-2008 (P. Vermeylen)	VAN ROY Jan	0	Jan	Van Roy
+2007-2008 (P. Vermeylen)	VERMEYLEN Philip	1	Philip	Vermeylen
+2007-2008 (P. Vermeylen)	VAN DEN ABBEEL Arno	0	Arno	Van Den Abbeel
+2007-2008 (P. Vermeylen)	VAN DIJCK Britt	0	Britt	Van Dijck
+2007-2008 (P. Vermeylen)	VAN CAUWENBERGH Lies	0	Lies	Van Cauwenbergh
+2007-2008 (P. Vermeylen)	ADRIAENSSENS Nele	1	Nele	Adriaenssens
+2007-2008 (P. Vermeylen)	GALLET Wim	0	Wim	Gallet
+2007-2008 (P. Vermeylen)	LAENEN Rob	0	Rob	Laenen
+2007-2008 (P. Vermeylen)	ROELS Tuur	0	Tuur	Roels
+2007-2008 (P. Vermeylen)	VERPOEST Maarten	1	Maarten	Verpoest
+2007-2008 (P. Vermeylen)	JACOBS Geert	0	Geert	Jacobs
+2007-2008 (P. Vermeylen)	HERMANS Bieke	0	Bieke	Hermans
+2007-2008 (P. Vermeylen)	GEELEN Bart	1	Bart	Geelen
+2007-2008 (P. Vermeylen)	SERCK Samuel	1	Samuel	Serck
+2007-2008 (P. Vermeylen)	DAAMEN Dieter	0	Dieter	Daamen
+2007-2008 (P. Vermeylen)	VAN DAM Jimmy	0	Jimmy	Van Dam
+2007-2008 (P. Vermeylen)	VON RAUCH Eva	1	Eva	Von Rauch
+2007-2008 (P. Vermeylen)	BOEY Tinne	0	Tinne	Boey
+2007-2008 (P. Vermeylen)	T LAM Hanne	0	Hanne	t Lam
+2007-2008 (P. Vermeylen)	WAGEMANS Fanny	0	Fanny	Wagemans
+2007-2008 (P. Vermeylen)	BEUTELS MichÃ¨le	0	Michèlle	Beutels
+2007-2008 (P. Vermeylen)	LAENEN Frank	0	Frank	Laenen
+2007-2008 (P. Vermeylen)	BAERT Pieter-Jan	0	Pieter-Jan	Baert
+2007-2008 (P. Vermeylen)	DHEYGERE Marie-Laure	0	Marie-Laure	Dheygere
+2008-2009 (B. Geelen)	ADRIAENSSENS Nele	0	Nele	Adriaenssens
+2008-2009 (B. Geelen)	LAENEN Rob	1	Rob	Laenen
+2008-2009 (B. Geelen)	VERPOEST Maarten	1	Maarten	Verpoest
+2008-2009 (B. Geelen)	HERMANS Bieke	1	Bieke	Hermans
+2008-2009 (B. Geelen)	GEELEN Bart	1	Bart	Geelen
+2008-2009 (B. Geelen)	VAN DAM Jimmy	1	Jimmy	Van Dam
+2008-2009 (B. Geelen)	BOEY Tinne	1	Tinne	Boey
+2008-2009 (B. Geelen)	T LAM Hanne	0	Hanne	t Lam
+2008-2009 (B. Geelen)	BEUTELS MichÃ¨le	0	Michèlle	Beutels
+2008-2009 (B. Geelen)	LAENEN Frank	1	Frank	Laenen
+2008-2009 (B. Geelen)	BAERT Pieter-Jan	0	Pieter-Jan	Baert
+2008-2009 (B. Geelen)	DHEYGERE Marie-Laure	0	Marie-Laure	Dheygere
+2008-2009 (B. Geelen)	DESCHUTTER Lynn	1	Lynn	Deschutter
+2008-2009 (B. Geelen)	DE MEIJER Steven	1	Steven	De Meijer
+2008-2009 (B. Geelen)	VAN VLASSELAER Nicolas	1	Nicolas	Van Vlasselaer
+2008-2009 (B. Geelen)	VAN DER LINDEN Mattias	1	Mattias	Van der Linden
+2008-2009 (B. Geelen)	VAN DE VELDE Kaat	0	Kaat	Van De Velde
+2008-2009 (B. Geelen)	DUQUESNE Nathalie	0	Nathalie	Duquesne
+2008-2009 (B. Geelen)	WOUTERS Nick	1	Nick	Wouters
+2008-2009 (B. Geelen)	VAN ISEGHEM Tom	1	Tom	Van Iseghem
+2008-2009 (B. Geelen)	VAN ELSEN Bram	1	Bram	Van Elsen
+2008-2009 (B. Geelen)	NOBELS Sandrine	0	Sandrine	Nobels
+2008-2009 (B. Geelen)	OTS Evelien	0	Evelien	Ots
+2008-2009 (B. Geelen)	GOETHALS ChloÃ«	0	Chloë	Goethals
+2008-2009 (B. Geelen)	VAN HEUVEL Maarten	0	Maarten	Van Heuvel
+2008-2009 (B. Geelen)	HELSEN Luk	0	Luk	Helsen
+2009-2010 (M. Verpoest)	LAENEN Rob	1	Rob	Laenen
+2009-2010 (M. Verpoest)	VERPOEST Maarten	1	Maarten	Verpoest
+2009-2010 (M. Verpoest)	HERMANS Bieke	1	Bieke	Hermans
+2009-2010 (M. Verpoest)	GEELEN Bart	1	Bart	Geelen
+2009-2010 (M. Verpoest)	BOEY Tinne	1	Tinne	Boey
+2009-2010 (M. Verpoest)	T LAM Hanne	1	Hanne	t Lam
+2009-2010 (M. Verpoest)	BEUTELS MichÃ¨le	0	Michèlle	Beutels
+2009-2010 (M. Verpoest)	DHEYGERE Marie-Laure	1	Marie-Laure	Dheygere
+2009-2010 (M. Verpoest)	DESCHUTTER Lynn	0	Lynn	Deschutter
+2009-2010 (M. Verpoest)	DE MEIJER Steven	1	Steven	De Meijer
+2009-2010 (M. Verpoest)	VAN VLASSELAER Nicolas	1	Nicolas	Van Vlasselaer
+2009-2010 (M. Verpoest)	VAN DER LINDEN Mattias	1	Mattias	Van der Linden
+2009-2010 (M. Verpoest)	WOUTERS Nick	1	Nick	Wouters
+2009-2010 (M. Verpoest)	VAN ISEGHEM Tom	1	Tom	Van Iseghem
+2009-2010 (M. Verpoest)	VAN ELSEN Bram	1	Bram	Van Elsen
+2009-2010 (M. Verpoest)	SERRIEN Ben	1	Ben	Serrien
+2009-2010 (M. Verpoest)	VERMEIR Xanne	1	Xanne	Vermeir
+2009-2010 (M. Verpoest)	VAN ROSSEM Nele	0	Nele	Van Rossem
+2009-2010 (M. Verpoest)	TONDEUR Marie	0	Marie	Tondeur
+2009-2010 (M. Verpoest)	DESMET Jeroen	1	Jeroen	Desmet
+2009-2010 (M. Verpoest)	SIMOENS Fauve	0	Fauve	Simoens
+2009-2010 (M. Verpoest)	BRONCKAERTS Laura	0	Laura	Bronckaerts
+2009-2010 (M. Verpoest)	DE SMEDT Barbara	1	Barbara	De Smedt
+2010-2011 (N. Van Vlasselaer)	LAENEN Rob	0	Rob	Laenen
+2010-2011 (N. Van Vlasselaer)	VERPOEST Maarten	1	Maarten	Verpoest
+2010-2011 (N. Van Vlasselaer)	GEELEN Bart	1	Bart	Geelen
+2010-2011 (N. Van Vlasselaer)	VAN DAM Jimmy	1	Jimmy	Van Dam
+2010-2011 (N. Van Vlasselaer)	BOEY Tinne	0	Tinne	Boey
+2010-2011 (N. Van Vlasselaer)	T LAM Hanne	0	Hanne	t Lam
+2010-2011 (N. Van Vlasselaer)	BEUTELS MichÃ¨le	0	Michèlle	Beutels
+2010-2011 (N. Van Vlasselaer)	BAERT Pieter-Jan	1	Pieter-Jan	Baert
+2010-2011 (N. Van Vlasselaer)	DHEYGERE Marie-Laure	1	Marie-Laure	Dheygere
+2010-2011 (N. Van Vlasselaer)	DESCHUTTER Lynn	1	Lynn	Deschutter
+2010-2011 (N. Van Vlasselaer)	DE MEIJER Steven	1	Steven	De Meijer
+2010-2011 (N. Van Vlasselaer)	VAN VLASSELAER Nicolas	1	Nicolas	Van Vlasselaer
+2010-2011 (N. Van Vlasselaer)	VAN DER LINDEN Mattias	1	Mattias	Van der Linden
+2010-2011 (N. Van Vlasselaer)	WOUTERS Nick	1	Nick	Wouters
+2010-2011 (N. Van Vlasselaer)	VAN ISEGHEM Tom	1	Tom	Van Iseghem
+2010-2011 (N. Van Vlasselaer)	VAN ELSEN Bram	1	Bram	Van Elsen
+2010-2011 (N. Van Vlasselaer)	SERRIEN Ben	1	Ben	Serrien
+2010-2011 (N. Van Vlasselaer)	VERMEIR Xanne	1	Xanne	Vermeir
+2010-2011 (N. Van Vlasselaer)	DE SMEDT Barbara	1	Barbara	De Smedt
+2010-2011 (N. Van Vlasselaer)	CROKAERT Bilitis	0	Bilitis	Crockaert
+2010-2011 (N. Van Vlasselaer)	LIBOTTON Nick	1	Nick	Libotton
+2010-2011 (N. Van Vlasselaer)	GHEYSELS Sarah	0	Sarah	Ghysels
+2010-2011 (N. Van Vlasselaer)	TYBEBO Eliot	0	Eliot	Tybebo
+2010-2011 (N. Van Vlasselaer)	LAENEN Frederik	0	Frederik	Laenen
+2010-2011 (N. Van Vlasselaer)	AERTS Lore	1	Lore	Aerts
+2010-2011 (N. Van Vlasselaer)	FEINER Deborah	0	Deborah	Feiner
+2010-2011 (N. Van Vlasselaer)	VAN DER AUWERA Karl	1	Karl	Van Der Auwera
+2010-2011 (N. Van Vlasselaer)	PICKÃ‰E Free	1	Free	Pickée
+2010-2011 (N. Van Vlasselaer)	TREHOUT Lauren	0	Lauren	Trehout
+2010-2011 (N. Van Vlasselaer)	DENUTTE Andreas	1	Andreas	De Nutte
+2010-2011 (N. Van Vlasselaer)	DE WAEL Lise	0	Lise	De Wael
+2010-2011 (N. Van Vlasselaer)	VANKEERBERGEN CÃ©line	1	Céline	Vankeerbergen
+2011-2012 (B. Van Elsen)	LAENEN Rob	1	Rob	Laenen
+2011-2012 (B. Van Elsen)	DESCHUTTER Lynn	1	Lynn	Deschutter
+2011-2012 (B. Van Elsen)	DE MEIJER Steven	1	Steven	De Meijer
+2011-2012 (B. Van Elsen)	VAN VLASSELAER Nicolas	1	Nicolas	Van Vlasselaer
+2011-2012 (B. Van Elsen)	VAN DER LINDEN Mattias	1	Mattias	Van der Linden
+2011-2012 (B. Van Elsen)	WOUTERS Nick	1	Nick	Wouters
+2011-2012 (B. Van Elsen)	VAN ISEGHEM Tom	1	Tom	Van Iseghem
+2011-2012 (B. Van Elsen)	VAN ELSEN Bram	1	Bram	Van Elsen
+2011-2012 (B. Van Elsen)	SERRIEN Ben	1	Ben	Serrien
+2011-2012 (B. Van Elsen)	VERMEIR Xanne	0	Xanne	Vermeir
+2011-2012 (B. Van Elsen)	CROKAERT Bilitis	1	Bilitis	Crockaert
+2011-2012 (B. Van Elsen)	GHEYSELS Sarah	1	Sarah	Ghysels
+2011-2012 (B. Van Elsen)	AERTS Lore	0	Lore	Aerts
+2011-2012 (B. Van Elsen)	VAN DER AUWERA Karl	1	Karl	Van Der Auwera
+2011-2012 (B. Van Elsen)	DENUTTE Andreas	1	Andreas	De Nutte
+2011-2012 (B. Van Elsen)	BRONCKMANS Joren	1	Joren	Brockmans
+2011-2012 (B. Van Elsen)	RODRIGUEZ-GONZALEZ Julie	1	Julie	Rodriguez-Gonzalez
+2011-2012 (B. Van Elsen)	CURTIL Louis	1	Louis	Curtil
+2011-2012 (B. Van Elsen)	HOOFT Jonathan	1	Jonathan	Hooft
+2011-2012 (B. Van Elsen)	POESEN Rens	1	Rens	Poesen
+2011-2012 (B. Van Elsen)	VAN ISTERDAEL Bernd	1	Bernd	Van Isterdael
+2011-2012 (B. Van Elsen)	DE MOET Marloes	1	Marloes	De Moet
+2011-2012 (B. Van Elsen)	STANS Tatjana	1	Tatjana	Stans
+2011-2012 (B. Van Elsen)	VAN OERS Tess	0	Tess	Van Oers
+2011-2012 (B. Van Elsen)	PREVOST Yannick	0	Yannick	Prevost
+2011-2012 (B. Van Elsen)	Brundonckx Lyn	0	Lyn	Bruyndonckx
+2011-2012 (B. Van Elsen)	Peirs Alexander	1	Alexander	Peirs
+2012-2013 (J. Hooft)	VAN VLASSELAER Nicolas	0	Nicolas	Van Vlasselaer
+2012-2013 (J. Hooft)	VAN ELSEN Bram	1	Bram	Van Elsen
+2012-2013 (J. Hooft)	SERRIEN Ben	1	Ben	Serrien
+2012-2013 (J. Hooft)	CROKAERT Bilitis	1	Bilitis	Crockaert
+2012-2013 (J. Hooft)	GHEYSELS Sarah	1	Sarah	Ghysels
+2012-2013 (J. Hooft)	DENUTTE Andreas	1	Andreas	De Nutte
+2012-2013 (J. Hooft)	BRONCKMANS Joren	0	Joren	Brockmans
+2012-2013 (J. Hooft)	RODRIGUEZ-GONZALEZ Julie	1	Julie	Rodriguez-Gonzalez
+2012-2013 (J. Hooft)	CURTIL Louis	1	Louis	Curtil
+2012-2013 (J. Hooft)	HOOFT Jonathan	1	Jonathan	Hooft
+2012-2013 (J. Hooft)	POESEN Rens	0	Rens	Poesen
+2012-2013 (J. Hooft)	VAN ISTERDAEL Bernd	0	Berns	Van Isterdael
+2012-2013 (J. Hooft)	STANS Tatjana	0	Tatjana	Stans
+2012-2013 (J. Hooft)	Peirs Alexander	0	Alexander	Peirs
+2012-2013 (J. Hooft)	Olieslagers Arian	0	Arian	Olieslagers
+2012-2013 (J. Hooft)	Pauwels Gertjan	0	Gertjan	Pauwels
+2012-2013 (J. Hooft)	Verstappen Stef	0	Stef	Verstappen
+2012-2013 (J. Hooft)	Donckier Anne-Sophie	1	Anne-Sophie	Donckier
+2012-2013 (J. Hooft)	Ooijen Jeroen	0	Jeroen	Ooijen
+2012-2013 (J. Hooft)	De Ridder Sara	1	Sara	De Ridder
+2012-2013 (J. Hooft)	Jacobs Lise	0	Lise	Jacobs
+2012-2013 (J. Hooft)	Lemaire Layla	0	Layla	Lemaire
+2012-2013 (J. Hooft)	Verhoest Wouter	0	Wouter	Verhoest
+2012-2013 (J. Hooft)	De Gelas Joyce	1	Joyce	De Gelas
+2012-2013 (J. Hooft)	Maigret Stephanie	0	Stephanie	Maigret
+2012-2013 (J. Hooft)	Baele Elodie	0	Elodie	Baele
+2012-2013 (J. Hooft)	Cassiman Michiel	0	Michiel	Cassiman
+2012-2013 (J. Hooft)	Poesen Mirte	0	Mirte	Poesen
+2013-2014 (R. Poesen)	SERRIEN Ben	1	Ben	Serrien
+2013-2014 (R. Poesen)	CROKAERT Bilitis	0	Bilitis	Crockaert
+2013-2014 (R. Poesen)	GHEYSELS Sarah	0	Sarah	Ghysels
+2013-2014 (R. Poesen)	VAN DER AUWERA Karl	0	Karl	Van Der Auwera
+2013-2014 (R. Poesen)	DENUTTE Andreas	0	Andreas	De Nutte
+2013-2014 (R. Poesen)	BRONCKMANS Joren	1	Joren	Brockmans
+2013-2014 (R. Poesen)	RODRIGUEZ-GONZALEZ Julie	0	Julie	Rodriguez-Gonzalez
+2013-2014 (R. Poesen)	CURTIL Louis	1	Louis	Curtil
+2013-2014 (R. Poesen)	HOOFT Jonathan	0	Jonathan	Hooft
+2013-2014 (R. Poesen)	POESEN Rens	1	Rens	Poesen
+2013-2014 (R. Poesen)	STANS Tatjana	1	Tatjana	Stans
+2013-2014 (R. Poesen)	Peirs Alexander	0	Alexander	Peirs
+2013-2014 (R. Poesen)	Verstappen Stef	0	Stef	Verstappen
+2013-2014 (R. Poesen)	Ooijen Jeroen	0	Jeroen	Ooijen
+2013-2014 (R. Poesen)	De Ridder Sara	1	Sara	De Ridder
+2013-2014 (R. Poesen)	Jacobs Lise	0	Lise	Jacobs
+2013-2014 (R. Poesen)	Lemaire Layla	0	Layla	Lemaire
+2013-2014 (R. Poesen)	Verhoest Wouter	0	Wouter	Verhoest
+2013-2014 (R. Poesen)	De Gelas Joyce	1	Joyce	De Gelas
+2013-2014 (R. Poesen)	Maigret Stephanie	0	Stephanie	Maigret
+2013-2014 (R. Poesen)	Baele Elodie	0	Elodie	Baele
+2013-2014 (R. Poesen)	Cassiman Michiel	0	Michiel	Cassiman
+2013-2014 (R. Poesen)	Poesen Mirte	0	Mirte	Poesen
+2013-2014 (R. Poesen)	Van Der Velde Glenn	1	Glenn	Van Der Velde
+2013-2014 (R. Poesen)	Schuermans Julie	0	Julie	Schuermans
+2013-2014 (R. Poesen)	Evenepoel Sara	0	Sara	Evenepoel
+2013-2014 (R. Poesen)	Van Laethem Manon	0	Manon	Van Laethem
+2013-2014 (R. Poesen)	Vanderborght Caro	1	Caro	Vanderborght
+2013-2014 (R. Poesen)	Decuyper Arno	1	Arno	Decuyper
+2013-2014 (R. Poesen)	Van Eecke Tomas	0	Tomas	Van Eecke
+2013-2014 (R. Poesen)	Jorssen Jeroen	1	Jeroen	Jorssen
+2013-2014 (R. Poesen)	In 't Zandt Marco	1	Marco	In 't Zandt
+2013-2014 (R. Poesen)	Jacquet Arnaud	1	Arnaud	Jacquet
+2013-2014 (R. Poesen)	Van Doorn Jannis	1	Jannis	Van Doorn
+2013-2014 (R. Poesen)	Debruyn Jari	0	Jari	Debruyn
+2013-2014 (R. Poesen)	Evenepoel Melissa	0	Melissa	Evenepoel
+2013-2014 (R. Poesen)	Verstraelen Matthias	0	Matthias	Verstraelen
+2013-2014 (R. Poesen)	Noppe Annelies	0	Annelies	Noppe
+2013-2014 (R. Poesen)	Van Impe Charles	0	Charles	Van Impe
+2013-2014 (R. Poesen)	Vanherp Ymke	0	Ymke	Vanherp
+2013-2014 (R. Poesen)	Sergooris Katrien	0	Katrien	Sergooris
+2013-2014 (R. Poesen)	Bogaerts Niels	0	Niels	Bogaerts
+2013-2014 (R. Poesen)	Bronckaerts Eva	0	Eva	Bronckaerts
+2013-2014 (R. Poesen)	Francois Joke	0	Joke	Francois
+2013-2014 (R. Poesen)	Avonts Mike	0	Mike	Avonts
+2013-2014 (R. Poesen)	Viroux LoÃ¯c	0	Loïc	Viroux
+2013-2014 (R. Poesen)	De Bry Audrey	0	Audrey	De Bry
+2013-2014 (R. Poesen)	Vandormael Sam	0	Sam	Vandormael
+2013-2014 (R. Poesen)	Van Hautegem Evelynn	0	Evelynn	Van Hautegem
+2013-2014 (R. Poesen)	De Maeyer Melissa	0	Melissa	De Maeyer
+2013-2014 (R. Poesen)	Bal Jennifer	0	Jennifer	Bal
+2013-2014 (R. Poesen)	Smets Tina	0	Tina	Smets
+2014-2015 (S. De Ridder)	CURTIL Louis	1	Louis	Curtil
+2014-2015 (S. De Ridder)	HOOFT Jonathan	0	Jonathan	Hooft
+2014-2015 (S. De Ridder)	POESEN Rens	1	Rens	Poesen
+2014-2015 (S. De Ridder)	STANS Tatjana	1	Tatjana	Stans
+2014-2015 (S. De Ridder)	Peirs Alexander	0	Alexander	Peirs
+2014-2015 (S. De Ridder)	De Ridder Sara	1	Sara	De Ridder
+2014-2015 (S. De Ridder)	Lemaire Layla	0	Layla	Lemaire
+2014-2015 (S. De Ridder)	De Gelas Joyce	1	Joyce	De Gelas
+2014-2015 (S. De Ridder)	Maigret Stephanie	0	Stephanie	Maigret
+2014-2015 (S. De Ridder)	Baele Elodie	1	Elodie	Baele
+2014-2015 (S. De Ridder)	Van Der Velde Glenn	1	Glenn	Van Der Velde
+2014-2015 (S. De Ridder)	Van Laethem Manon	0	Manon	Van Laethem
+2014-2015 (S. De Ridder)	Vanderborght Caro	1	Caro	Vanderborght
+2014-2015 (S. De Ridder)	Decuyper Arno	0	Arno	Decuyper
+2014-2015 (S. De Ridder)	Jorssen Jeroen	0	Jeroen	Jorssen
+2014-2015 (S. De Ridder)	In 't Zandt Marco	0	Marco	In 't Zandt
+2014-2015 (S. De Ridder)	Jacquet Arnaud	1	Arnaud	Jacquet
+2014-2015 (S. De Ridder)	Van Doorn Jannis	1	Jannis	Van Doorn
+2014-2015 (S. De Ridder)	Debruyn Jari	1	Jari	Debruyn
+2014-2015 (S. De Ridder)	Evenepoel Melissa	0	Melissa	Evenepoel
+2014-2015 (S. De Ridder)	Verstraelen Matthias	0	Matthias	Verstraelen
+2014-2015 (S. De Ridder)	Avonts Mike	0	Mike	Avonts
+2014-2015 (S. De Ridder)	Viroux LoÃ¯c	0	Loïc	Viroux
+2014-2015 (S. De Ridder)	Provoost Isabeau	0	Isabeau	Provoost
+2014-2015 (S. De Ridder)	Vanheers Brecht	0	Brecht	Vanheers
+2014-2015 (S. De Ridder)	Serneels Kirsten	1	Kirsten	Serneels
+2014-2015 (S. De Ridder)	Meganck Lore	1	Lore	Meganck
+2014-2015 (S. De Ridder)	Broux Lies	1	Lies	Broux
+2014-2015 (S. De Ridder)	Van Looveren Lori	1	Lori	Van Looveren
+2014-2015 (S. De Ridder)	Beghin Charlotte	1	Charlotte	Beghin
+2014-2015 (S. De Ridder)	Kelecom Arthur	1	Arthur	Kelecom
+2014-2015 (S. De Ridder)	van der Mauten Thomas	0	Thomas	van der Mauten
+2014-2015 (S. De Ridder)	Schnabel Nyhall	0	Nyhall	Schnabel
+2014-2015 (S. De Ridder)	Nys Jana	0	Jana	Nys
+2014-2015 (S. De Ridder)	Wittevrongel Ine	0	Ine	Wittevrongel
+2014-2015 (S. De Ridder)	Lemmens Jesse	0	Jesse	Lemmens
+2014-2015 (S. De Ridder)	Vandermaesen Phaedra	0	Phaedra	Vandermaesen
+2014-2015 (S. De Ridder)	Van Beurden Marion	1	Marion	Van Beurden
+2014-2015 (S. De Ridder)	Dillen Maxim	1	Maxim	Dillen
+2014-2015 (S. De Ridder)	Moeykens Arnaud	0	Arnaud	Moeykens
+2014-2015 (S. De Ridder)	Van Hees Wout	0	Wout	Van Hees
+2014-2015 (S. De Ridder)	Bender Jenny	0	Jenny	Bender
+2015-2016 (J. Van Doorn)	POESEN Rens	1	Rens	Poesen
+2015-2016 (J. Van Doorn)	De Ridder Sara	1	Sara	De Ridder
+2015-2016 (J. Van Doorn)	De Gelas Joyce	1	Joyce	De Gelas
+2015-2016 (J. Van Doorn)	Baele Elodie	1	Elodie	Baele
+2015-2016 (J. Van Doorn)	Van Der Velde Glenn	1	Glenn	Van Der Velde
+2015-2016 (J. Van Doorn)	Van Laethem Manon	0	Manon	Van Laethem
+2015-2016 (J. Van Doorn)	Vanderborght Caro	1	Caro	Vanderborght
+2015-2016 (J. Van Doorn)	In 't Zandt Marco	0	Marco	In 't Zandt
+2015-2016 (J. Van Doorn)	Jacquet Arnaud	1	Arnaud	Jacquet
+2015-2016 (J. Van Doorn)	Van Doorn Jannis	1	Jannis	Van Doorn
+2015-2016 (J. Van Doorn)	Debruyn Jari	1	Jari	Debruyn
+2015-2016 (J. Van Doorn)	Viroux LoÃ¯c	0	Loïc	Viroux
+2015-2016 (J. Van Doorn)	Provoost Isabeau	0	Isabeau	Provoost
+2015-2016 (J. Van Doorn)	Meganck Lore	0	Lore	Meganck
+2015-2016 (J. Van Doorn)	Broux Lies	1	Lies	Broux
+2015-2016 (J. Van Doorn)	Van Looveren Lori	0	Lori	Van Looveren
+2015-2016 (J. Van Doorn)	Beghin Charlotte	0	Charlotte	Beghin
+2015-2016 (J. Van Doorn)	Kelecom Arthur	1	Arthur	Kelecom
+2015-2016 (J. Van Doorn)	Schnabel Nyhall	0	Nyhall	Schnabel
+2015-2016 (J. Van Doorn)	Wittevrongel Ine	0	Ine	Wittevrongel
+2015-2016 (J. Van Doorn)	Lemmens Jesse	0	Jesse	Lemmens
+2015-2016 (J. Van Doorn)	Van Beurden Marion	1	Marion	Van Beurden
+2015-2016 (J. Van Doorn)	Dillen Maxim	1	Maxim	Dillen
+2015-2016 (J. Van Doorn)	Bender Jenny	0	Jenny	Bender
+2015-2016 (J. Van Doorn)	Shandy Wieleman	0	Shandy	Wieleman
+2015-2016 (J. Van Doorn)	Caroline De Sloovere	0	Caroline	De Sloovere
+2015-2016 (J. Van Doorn)	Elien Clerix	0	Elien	Clerix
+2015-2016 (J. Van Doorn)	Elien Lebuf	0	Elien	Lebuf
+2015-2016 (J. Van Doorn)	Katrien Cools	0	Katrien	Cools
+2015-2016 (J. Van Doorn)	Elise Jespers	0	Elise	Jespers
+2015-2016 (J. Van Doorn)	LoÃ¯c Viroux	0	Loïc	Viroux
+2015-2016 (J. Van Doorn)	Melissa Berlanger	0	Melissa	Berlanger
+2015-2016 (J. Van Doorn)	Tineke Van De Sompel	0	Tineke	Van De Sompel
+2015-2016 (J. Van Doorn)	Levi Leers	0	Levi	Leers
+2015-2016 (J. Van Doorn)	CÃ©dric Steenwerckx	0	Cédric	Steenwerckx
+2015-2016 (J. Van Doorn)	Maarten Wuijts	0	Maarten	Wuijts
+2015-2016 (J. Van Doorn)	Brent De Smedt	0	Brent	De Smedt
+2016-2017 (G. Van der Velde)	POESEN Rens	1	Rens	Poesen
+2016-2017 (G. Van der Velde)	De Ridder Sara	1	Sara	De Ridder
+2016-2017 (G. Van der Velde)	De Gelas Joyce	0	Joyce	De Gelas
+2016-2017 (G. Van der Velde)	Van Der Velde Glenn	1	Glenn	Van Der Velde
+2016-2017 (G. Van der Velde)	In 't Zandt Marco	1	Marco	In 't Zandt
+2016-2017 (G. Van der Velde)	Jacquet Arnaud	1	Arnaud	Jacquet
+2016-2017 (G. Van der Velde)	Van Doorn Jannis	1	Jannis	Van Doorn
+2016-2017 (G. Van der Velde)	Provoost Isabeau	0	Isabeau	Provoost
+2016-2017 (G. Van der Velde)	Meganck Lore	1	Lore	Meganck
+2016-2017 (G. Van der Velde)	Broux Lies	1	Lies	Broux
+2016-2017 (G. Van der Velde)	Van Looveren Lori	1	Lori	Van Looveren
+2016-2017 (G. Van der Velde)	Beghin Charlotte	0	Charlotte	Beghin
+2016-2017 (G. Van der Velde)	Kelecom Arthur	1	Arthur	Kelecom
+2016-2017 (G. Van der Velde)	van der Mauten Thomas	0	Thomas	van der Mauten
+2016-2017 (G. Van der Velde)	Schnabel Nyhall	0	Nyhall	Schnabel
+2016-2017 (G. Van der Velde)	Wittevrongel Ine	1	Ine	Wittevrongel
+2016-2017 (G. Van der Velde)	Van Beurden Marion	1	Marion	Van Beurden
+2016-2017 (G. Van der Velde)	Dillen Maxim	1	Maxim	Dillen
+2016-2017 (G. Van der Velde)	Caroline De Sloovere	0	Caroline	De Sloovere
+2016-2017 (G. Van der Velde)	Elien Clerix	0	Elien	Clerix
+2016-2017 (G. Van der Velde)	Elien Lebuf	1	Elien	Lebuf
+2016-2017 (G. Van der Velde)	Katrien Cools	0	Katrien	Cools
+2016-2017 (G. Van der Velde)	LoÃ¯c Viroux	1	Loïc	Viroux
+2016-2017 (G. Van der Velde)	CÃ©dric Steenwerckx	1	Cédric	Steenwerckx
+2016-2017 (G. Van der Velde)	Maarten Wuijts	1	Maarten	Wuijts
+2016-2017 (G. Van der Velde)	Brent De Smedt	0	Brent	De Smedt
+2016-2017 (G. Van der Velde)	Sofie Bynens	0	Sofie	Bynens
+2016-2017 (G. Van der Velde)	Lieselot Haine	0	Lieselot	Haine
+2016-2017 (G. Van der Velde)	Jelle Habay	1	Jelle	Habay
+2016-2017 (G. Van der Velde)	Alicia Sterckx	0	Alicia	Sterckx
+2016-2017 (G. Van der Velde)	Caroline Akst	1	Caroline	Akst
+2016-2017 (G. Van der Velde)	Carla Araldi	0	Carla	Araldi
+2016-2017 (G. Van der Velde)	Stien Moreel	0	Stien	Moreel
+2016-2017 (G. Van der Velde)	Savannah HerÃ©us	0	Savannah	Heréus
+2016-2017 (G. Van der Velde)	Bjarne Lins	0	Bjarne	Lins
+2016-2017 (G. Van der Velde)	Intissare Atid	0	Intissare	Atid
+2016-2017 (G. Van der Velde)	Anaelle Akwesi	0	Anaelle	Akwesi
+2016-2017 (G. Van der Velde)	Manon Gevaert	1	Manon	Gevaert
+2016-2017 (G. Van der Velde)	Elien Biebaut	0	Elien	Biebaut
+2016-2017 (G. Van der Velde)	Liesbeth Goethals	0	Liesbeth	Goethals
+2016-2017 (G. Van der Velde)	Hendrik van Batselaere	0	Hendrik	Van Bastelaere
+2016-2017 (G. Van der Velde)	Toninio Waelkens	1	Toninio	Waelkens
+2016-2017 (G. Van der Velde)	Thomas Favresse	0	Thomas	Favresse
+2016-2017 (G. Van der Velde)	Ruben Van Droogenbroeck	0	Ruben	Van Droogenbroek
+2016-2017 (G. Van der Velde)	Dorien De Meersman	0	Doerien	De Meersman
+2016-2017 (G. Van der Velde)	Antonio Roberte Neto	0	Antonio	Roberte Neto
+2016-2017 (G. Van der Velde)	Thijs Meeseman	0	Thijs	Meeseman
+2017-2018 (M. Wuijts)	POESEN Rens	1	Rens	Poesen
+2017-2018 (M. Wuijts)	De Gelas Joyce	1	Joyce	De Gelas
+2017-2018 (M. Wuijts)	Van Der Velde Glenn	0	Glenn	Van Der Velde
+2017-2018 (M. Wuijts)	In 't Zandt Marco	1	Marco	In 't Zandt
+2017-2018 (M. Wuijts)	Jacquet Arnaud	1	Arnaud	Jacquet
+2017-2018 (M. Wuijts)	Broux Lies	1	Lies	Broux
+2017-2018 (M. Wuijts)	Beghin Charlotte	0	Charlotte	Beghin
+2017-2018 (M. Wuijts)	Kelecom Arthur	1	Arthur	Kelecom
+2017-2018 (M. Wuijts)	van der Mauten Thomas	1	Thomas	van der Mauten
+2017-2018 (M. Wuijts)	Dillen Maxim	1	Maxim	Dillen
+2017-2018 (M. Wuijts)	Elien Clerix	0	Elien	Clerix
+2017-2018 (M. Wuijts)	Elien Lebuf	0	Elien	Lebuf
+2017-2018 (M. Wuijts)	Katrien Cools	0	Katrien	Cools
+2017-2018 (M. Wuijts)	LoÃ¯c Viroux	1	Loïc	Viroux
+2017-2018 (M. Wuijts)	CÃ©dric Steenwerckx	1	Cédric	Steenwerckx
+2017-2018 (M. Wuijts)	Maarten Wuijts	1	Maarten	Wuijts
+2017-2018 (M. Wuijts)	Brent De Smedt	1	Brent	De Smedt
+2017-2018 (M. Wuijts)	Lieselot Haine	0	Lieselot	Haine
+2017-2018 (M. Wuijts)	Jelle Habay	0	Jelle	Habay
+2017-2018 (M. Wuijts)	Alicia Sterckx	1	Alicia	Sterckx
+2017-2018 (M. Wuijts)	Caroline Akst	1	Caroline	Akst
+2017-2018 (M. Wuijts)	Carla Araldi	0	Carla	Araldi
+2017-2018 (M. Wuijts)	Stien Moreel	0	Stien	Moreel
+2017-2018 (M. Wuijts)	Manon Gevaert	1	Manon	Gevaert
+2017-2018 (M. Wuijts)	Toninio Waelkens	1	Toninio	Waelkens
+2017-2018 (M. Wuijts)	Antonio Roberte Neto	0	Antonio	Roberte Neto
+2017-2018 (M. Wuijts)	Thijs Meeseman	1	Thijs	Meeseman
+2017-2018 (M. Wuijts)	Melanie Coppey	0	Melanie	Coppey
+2017-2018 (M. Wuijts)	CÃ©dric MaternÃ©	1	Cédric	Materné
+2017-2018 (M. Wuijts)	Kenzo Bandinelli	0	Kenzo	Bandinelli
+2017-2018 (M. Wuijts)	Nick Warmoes	1	Nick	Warmoes
+2017-2018 (M. Wuijts)	Aline TrÃ©fois	1	Aline	Tréfois
+2017-2018 (M. Wuijts)	Glenn de Meuter	1	Glenn	de Meuter
+2017-2018 (M. Wuijts)	Livia Hoeben	0	Livia	Hoeben
+2017-2018 (M. Wuijts)	Dries Arijs	1	Dries	Arijs
+2017-2018 (M. Wuijts)	Robby Keymolen	1	Robby	Keymolen
+2017-2018 (M. Wuijts)	Dario Vanden Steen	1	Dario	Vanden Steen
+2017-2018 (M. Wuijts)	Jan Van Impe	1	Jan	Van Impe
+2017-2018 (M. Wuijts)	Stef van Campenhout	1	Stef	Van Campenhout
+2017-2018 (M. Wuijts)	Dante Van Hooydonck	0	Dante	Van Hooydonck
+2017-2018 (M. Wuijts)	Nico Verhaegen	1	Nico	Verhaegen
+2018-2019 (R. Keymolen)	Van Der Velde Glenn	1	Glenn	Van Der Velde
+2018-2019 (R. Keymolen)	In 't Zandt Marco	0	Marco	In 't Zandt
+2018-2019 (R. Keymolen)	Maarten Wuijts	1	Maarten	Wuijts
+2018-2019 (R. Keymolen)	Brent De Smedt	0	Brent	De Smedt
+2018-2019 (R. Keymolen)	Lieselot Haine	1	Lieselot	Haine
+2018-2019 (R. Keymolen)	Jelle Habay	1	Jelle	Habay
+2018-2019 (R. Keymolen)	Caroline Akst	1	Caroline	Akst
+2018-2019 (R. Keymolen)	Manon Gevaert	0	Manon	Gevaert
+2018-2019 (R. Keymolen)	Hendrik van Batselaere	0	Hendrik	Van Bastelaere
+2018-2019 (R. Keymolen)	Toninio Waelkens	1	Toninio	Waelkens
+2018-2019 (R. Keymolen)	Melanie Coppey	0	Melanie	Coppey
+2018-2019 (R. Keymolen)	Aline TrÃ©fois	0	Aline	Tréfois
+2018-2019 (R. Keymolen)	Glenn de Meuter	0	Glenn	de Meuter
+2018-2019 (R. Keymolen)	Robby Keymolen	1	Robby	Keymolen
+2018-2019 (R. Keymolen)	Dario Vanden Steen	0	Dario	Vanden Steen
+2018-2019 (R. Keymolen)	Stef van Campenhout	1	Stef	Van Campenhout
+2018-2019 (R. Keymolen)	Dante Van Hooydonck	0	Dante	Van Hooydonck
+2018-2019 (R. Keymolen)	Sander van Waesberghe	1	Sander	van Waesberghe
+2018-2019 (R. Keymolen)	Wanne Renquin	0	Wanne	Renquin
+2018-2019 (R. Keymolen)	Wander Neyrinckx	0	Wander	Neyrinckx
+2018-2019 (R. Keymolen)	Lena van Beek	0	Lena	van Beek
+2018-2019 (R. Keymolen)	Brecht Neirinckx	0	Brecht	Neirinckx
+2018-2019 (R. Keymolen)	Gilles Hammes	0	Gilles	Hammes
+2018-2019 (R. Keymolen)	Emile Cox	0	Emile	Cox
+2018-2019 (R. Keymolen)	Lindsay Ackersmans	0	Lindsay	Ackersmans
+2018-2019 (R. Keymolen)	Raf Hoogsteyns	0	Raf	Hoogsteyns
+2018-2019 (R. Keymolen)	Sander Maertens	1	Sander	Maertens
+2018-2019 (R. Keymolen)	Anke Robbeets	0	Anke	Robbeets
+2018-2019 (R. Keymolen)	Lorine Peyskens	0	Lorine	Peyskens
+2018-2019 (R. Keymolen)	Sacha Fontaine	0	Sacha	Fontaine
+2018-2019 (R. Keymolen)	Sanne Kingma	0	Sanne	Kingma
+2018-2019 (R. Keymolen)	Jolan MariÃ«n	0	Jolan	Mariën
+2018-2019 (R. Keymolen)	Maxime Togaert	0	Maxime	Togaert
+2018-2019 (R. Keymolen)	Daan Karl Huybrechtsen	0	Daan Karl	Huybrechtsen
+2019-2020 (H. van Bastelaere)	Van Der Velde Glenn	1	Glenn	Van Der Velde
+2019-2020 (H. van Bastelaere)	Maarten Wuijts	1	Maarten	Wuijts
+2019-2020 (H. van Bastelaere)	Brent De Smedt	0	Brent	De Smedt
+2019-2020 (H. van Bastelaere)	Jelle Habay	1	Jelle	Habay
+2019-2020 (H. van Bastelaere)	Hendrik van Batselaere	1	Hendrik	Van Bastelaere
+2019-2020 (H. van Bastelaere)	Aline TrÃ©fois	0	Aline	Tréfois
+2019-2020 (H. van Bastelaere)	Glenn de Meuter	0	Glenn	de Meuter
+2019-2020 (H. van Bastelaere)	Robby Keymolen	0	Robby	Keymolen
+2019-2020 (H. van Bastelaere)	Dario Vanden Steen	1	Dario	Vanden Steen
+2019-2020 (H. van Bastelaere)	Stef van Campenhout	1	Stef	Van Campenhout
+2019-2020 (H. van Bastelaere)	Wanne Renquin	1	Wanne	Renquin
+2019-2020 (H. van Bastelaere)	Lena van Beek	1	Lena	van Beek
+2019-2020 (H. van Bastelaere)	Raf Hoogsteyns	1	Raf	Hoogsteyns
+2019-2020 (H. van Bastelaere)	Sander Maertens	0	Sander	Maertens
+2019-2020 (H. van Bastelaere)	Lorine Peyskens	1	Lorine	Peyskens
+2019-2020 (H. van Bastelaere)	Sacha Fontaine	1	Sacha	Fontaine
+2019-2020 (H. van Bastelaere)	Sanne Kingma	1	Sanne	Kingma
+2019-2020 (H. van Bastelaere)	Maxime Togaert	0	Maxime	Togaert
+2019-2020 (H. van Bastelaere)	Daan Karl Huybrechtsen	0	Daan Karl	Huybrechtsen
+2019-2020 (H. van Bastelaere)	Mats Leemans	0	Mats	Leemans
+2019-2020 (H. van Bastelaere)	Loran Van Hul	0	Loran	Van Hul
+2019-2020 (H. van Bastelaere)	Eleonore van de Kerckhof	1	Eleonore	van de Kerckhof
+2019-2020 (H. van Bastelaere)	Julie Togaert	1	Julie	Togaert
+2019-2020 (H. van Bastelaere)	Bente Lambin	0	Bente	Lambin
+2019-2020 (H. van Bastelaere)	Vermeiren Aline	1	Aline	Vermeiren
+2019-2020 (H. van Bastelaere)	Vermoessen Lucas	1	Lucas	Vermoessen
+2019-2020 (H. van Bastelaere)	Van Strythem Anke	0	Anke	Van Strythem
+2019-2020 (H. van Bastelaere)	Diane Decoste	0	Diane	Decoste
+2019-2020 (H. van Bastelaere)	Geirnaert Emiel	1	Emiel	Geirnaert
+2019-2020 (H. van Bastelaere)	Oona Sterckx	1	Oona	Sterckx
+2019-2020 (H. van Bastelaere)	Raissa Peeters	1	Raissa	Peeters
+2019-2020 (H. van Bastelaere)	Juliette Deraedt	1	Juliette	Deraedt
+2019-2020 (H. van Bastelaere)	Shania Cornet	0	Shania	Cornet
+2019-2020 (H. van Bastelaere)	Anouck Leo	1	Anouck	Leo
+2019-2020 (H. van Bastelaere)	Stef De Greef	1	Stef	De Greef
+2019-2020 (H. van Bastelaere)	Bapthist Jonckheere	1	Bapthist	Jonckheere
+2020-2021 (B. Jonckheere)	Van Der Velde Glenn	1	Glenn	Van Der Velde
+2020-2021 (B. Jonckheere)	Maarten Wuijts	0	Maarten	Wuijts
+2020-2021 (B. Jonckheere)	Brent De Smedt	0	Brent	De Smedt
+2020-2021 (B. Jonckheere)	Jelle Habay	1	Jelle	Habay
+2020-2021 (B. Jonckheere)	Hendrik van Batselaere	0	Hendrik	Van Bastelaere
+2020-2021 (B. Jonckheere)	Toninio Waelkens	0	Toninio	Waelkens
+2020-2021 (B. Jonckheere)	Aline TrÃ©fois	0	Aline	Tréfois
+2020-2021 (B. Jonckheere)	Glenn de Meuter	0	Glenn	de Meuter
+2020-2021 (B. Jonckheere)	Robby Keymolen	1	Robby	Keymolen
+2020-2021 (B. Jonckheere)	Dario Vanden Steen	0	Dario	Vanden Steen
+2020-2021 (B. Jonckheere)	Stef van Campenhout	1	Stef	Van Campenhout
+2020-2021 (B. Jonckheere)	Wanne Renquin	0	Wanne	Renquin
+2020-2021 (B. Jonckheere)	Lena van Beek	0	Lena	van Beek
+2020-2021 (B. Jonckheere)	Sander Maertens	1	Sander	Maertens
+2020-2021 (B. Jonckheere)	Sanne Kingma	1	Sanne	Kingma
+2020-2021 (B. Jonckheere)	Jolan MariÃ«n	0	Jolan	Mariën
+2020-2021 (B. Jonckheere)	Maxime Togaert	0	Maxime	Togaert
+2020-2021 (B. Jonckheere)	Daan Karl Huybrechtsen	1	Daan Karl	Huybrechtsen
+2020-2021 (B. Jonckheere)	Loran Van Hul	1	Loran	Van Hul
+2020-2021 (B. Jonckheere)	Eleonore van de Kerckhof	0	Eleonore	van de Kerckhof
+2020-2021 (B. Jonckheere)	Julie Togaert	0	Julie	Togaert
+2020-2021 (B. Jonckheere)	Vermeiren Aline	1	Aline	Vermeiren
+2020-2021 (B. Jonckheere)	Vermoessen Lucas	0	Lucas	Vermoessen
+2020-2021 (B. Jonckheere)	Van Strythem Anke	0	Anke	Van Strythem
+2020-2021 (B. Jonckheere)	Geirnaert Emiel	0	Emiel	Geirnaert
+2020-2021 (B. Jonckheere)	Oona Sterckx	0	Oona	Sterckx
+2020-2021 (B. Jonckheere)	Raissa Peeters	1	Raissa	Peeters
+2020-2021 (B. Jonckheere)	Juliette Deraedt	0	Juliette	Deraedt
+2020-2021 (B. Jonckheere)	Anouck Leo	1	Anouck	Leo
+2020-2021 (B. Jonckheere)	Stef De Greef	0	Stef	De Greef
+2020-2021 (B. Jonckheere)	Bapthist Jonckheere	1	Bapthist	Jonckheere
+2020-2021 (B. Jonckheere)	Thomas Bertrem	0	Thomas	Bertem
+2020-2021 (B. Jonckheere)	Camille NoÃ«l	0	Camille	Noël
+2020-2021 (B. Jonckheere)	Arko Heye	0	Arko	Heye
+2020-2021 (B. Jonckheere)	Linde Loccufier	0	Linde	Loccufier
+2020-2021 (B. Jonckheere)	Lentl Van Roy	0	Lentl	Van Roy
+2020-2021 (B. Jonckheere)	Margaux Mouchart	0	Margaux	Mouchart
+2020-2021 (B. Jonckheere)	Alison Blocry	0	Alison	Blocry
+2020-2021 (B. Jonckheere)	Lynn De Greef	0	Lynn	De Greef
+2020-2021 (B. Jonckheere)	Taylan Kasaba	0	Taylan	Kasaba
+2020-2021 (B. Jonckheere)	Noah Boone	0	Noah	Boone
+2020-2021 (B. Jonckheere)	Anke Van Loock	1	Anke	Van Loock
+2020-2021 (B. Jonckheere)	ZoÃ© Dujardin	0	Zoë	Dujardin
+2020-2021 (B. Jonckheere)	Axel Peeters	0	Axel	Peeters
+2020-2021 (B. Jonckheere)	Jannes Broigniez	1	Jannes	Broigniez
+2020-2021 (B. Jonckheere)	Chloe Carpentier	1	Chloe	Carpentier
+2020-2021 (B. Jonckheere)	DanaÃ« Vannerom	1	Danaé	Vannerom
+2020-2021 (B. Jonckheere)	Dani Maluta	0	Dani	Maluta
+2020-2021 (B. Jonckheere)	MaÃ«lle Cosemans	0	Maëlle	Cosemans
+2020-2021 (B. Jonckheere)	Emilio Callies	1	Emilio	Callies
+2020-2021 (B. Jonckheere)	Imran El Friyakh	1	Imran	El Friyakh
+2021-2022 (D. K. Hubrechtsen)	Robby Keymolen	1	Robby	Keymolen
+2021-2022 (D. K. Hubrechtsen)	Dario Vanden Steen	1	Dario	Vanden Steen
+2021-2022 (D. K. Hubrechtsen)	Stef van Campenhout	1	Stef	Van Campenhout
+2021-2022 (D. K. Hubrechtsen)	Wanne Renquin	1	Wanne	Renquin
+2021-2022 (D. K. Hubrechtsen)	Lena van Beek	1	Lena	van Beek
+2021-2022 (D. K. Hubrechtsen)	Sander Maertens	1	Sander	Maertens
+2021-2022 (D. K. Hubrechtsen)	Sanne Kingma	0	Sanne	Kingma
+2021-2022 (D. K. Hubrechtsen)	Maxime Togaert	1	Maxime	Togaert
+2021-2022 (D. K. Hubrechtsen)	Daan Karl Huybrechtsen	1	Daan Karl	Huybrechtsen
+2021-2022 (D. K. Hubrechtsen)	Eleonore van de Kerckhof	0	Eleonore	van de Kerckhof
+2021-2022 (D. K. Hubrechtsen)	Vermeiren Aline	0	Aline	Vermeiren
+2021-2022 (D. K. Hubrechtsen)	Vermoessen Lucas	1	Lucas	Vermoessen
+2021-2022 (D. K. Hubrechtsen)	Oona Sterckx	1	Oona	Sterckx
+2021-2022 (D. K. Hubrechtsen)	Raissa Peeters	1	Raissa	Peeters
+2021-2022 (D. K. Hubrechtsen)	Juliette Deraedt	0	Juliette	Deraedt
+2021-2022 (D. K. Hubrechtsen)	Anouck Leo	1	Anouck	Leo
+2021-2022 (D. K. Hubrechtsen)	Bapthist Jonckheere	0	Bapthist	Jonckheere
+2021-2022 (D. K. Hubrechtsen)	Thomas Bertrem	0	Thomas	Bertem
+2021-2022 (D. K. Hubrechtsen)	Camille NoÃ«l	0	Camille	Noël
+2021-2022 (D. K. Hubrechtsen)	Arko Heye	1	Arko	Heye
+2021-2022 (D. K. Hubrechtsen)	Linde Loccufier	1	Linde	Loccufier
+2021-2022 (D. K. Hubrechtsen)	Lentl Van Roy	0	Lentl	Van Roy
+2021-2022 (D. K. Hubrechtsen)	Alison Blocry	0	Alison	Blocry
+2021-2022 (D. K. Hubrechtsen)	Lynn De Greef	0	Lynn	De Greef
+2021-2022 (D. K. Hubrechtsen)	Anke Van Loock	0	Anke	Van Loock
+2021-2022 (D. K. Hubrechtsen)	Axel Peeters	0	Axel	Peeters
+2021-2022 (D. K. Hubrechtsen)	Jannes Broigniez	1	Jannes	Broigniez
+2021-2022 (D. K. Hubrechtsen)	Chloe Carpentier	0	Chloe	Carpentier
+2021-2022 (D. K. Hubrechtsen)	DanaÃ« Vannerom	1	Danaé	Vannerom
+2021-2022 (D. K. Hubrechtsen)	Dani Maluta	0	Dani	Maluta
+2021-2022 (D. K. Hubrechtsen)	Emilio Callies	1	Emilo	Callies
+2021-2022 (D. K. Hubrechtsen)	Imran El Friyakh	1	Imran	El Friyakh
